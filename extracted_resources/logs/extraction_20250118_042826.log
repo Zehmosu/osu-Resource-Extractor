@@ -1,0 +1,1234 @@
+2025-01-18 04:28:26,516 - ResourceExtractor - INFO - Processing DLL: D:\osu!\avcodec-51.dll
+2025-01-18 04:28:26,541 - ResourceExtractor - WARNING - Could not load as .NET assembly: The module was expected to contain an assembly manifest. (Exception from HRESULT: 0x80131018)
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+2025-01-18 04:28:26,546 - ResourceExtractor - INFO - Processing DLL: D:\osu!\avformat-52.dll
+2025-01-18 04:28:26,548 - ResourceExtractor - WARNING - Could not load as .NET assembly: The module was expected to contain an assembly manifest. (Exception from HRESULT: 0x80131018)
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+2025-01-18 04:28:26,549 - ResourceExtractor - INFO - Processing DLL: D:\osu!\avutil-49.dll
+2025-01-18 04:28:26,551 - ResourceExtractor - WARNING - Could not load as .NET assembly: The module was expected to contain an assembly manifest. (Exception from HRESULT: 0x80131018)
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+2025-01-18 04:28:26,552 - ResourceExtractor - INFO - Processing DLL: D:\osu!\bass.dll
+2025-01-18 04:28:26,553 - ResourceExtractor - WARNING - Could not load as .NET assembly: The module was expected to contain an assembly manifest. (Exception from HRESULT: 0x80131018)
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+2025-01-18 04:28:26,554 - ResourceExtractor - INFO - Processing DLL: D:\osu!\bass_fx.dll
+2025-01-18 04:28:26,556 - ResourceExtractor - WARNING - Could not load as .NET assembly: The module was expected to contain an assembly manifest. (Exception from HRESULT: 0x80131018)
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+2025-01-18 04:28:26,556 - ResourceExtractor - INFO - Processing DLL: D:\osu!\d3dcompiler_47.dll
+2025-01-18 04:28:26,559 - ResourceExtractor - WARNING - Could not load as .NET assembly: The module was expected to contain an assembly manifest. (Exception from HRESULT: 0x80131018)
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+2025-01-18 04:28:26,563 - ResourceExtractor - INFO - Processing DLL: D:\osu!\libEGL.dll
+2025-01-18 04:28:26,565 - ResourceExtractor - WARNING - Could not load as .NET assembly: The module was expected to contain an assembly manifest. (Exception from HRESULT: 0x80131018)
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+2025-01-18 04:28:26,565 - ResourceExtractor - INFO - Processing DLL: D:\osu!\libGLESv2.dll
+2025-01-18 04:28:26,567 - ResourceExtractor - WARNING - Could not load as .NET assembly: The module was expected to contain an assembly manifest. (Exception from HRESULT: 0x80131018)
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+2025-01-18 04:28:26,571 - ResourceExtractor - INFO - Processing DLL: D:\osu!\Microsoft.Ink.dll
+2025-01-18 04:28:26,576 - ResourceExtractor - WARNING - Could not load as .NET assembly: Could not load file or assembly 'Microsoft.Ink.dll' or one of its dependencies.  is not a valid Win32 application. (Exception from HRESULT: 0x800700C1)
+File name: 'Microsoft.Ink.dll'
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+
+
+2025-01-18 04:28:26,577 - ResourceExtractor - INFO - Processing DLL: D:\osu!\OpenTK.dll
+2025-01-18 04:28:26,621 - ResourceExtractor - INFO - Processing DLL: D:\osu!\osu!auth.dll
+2025-01-18 04:28:26,622 - ResourceExtractor - WARNING - Could not load as .NET assembly: The module was expected to contain an assembly manifest. (Exception from HRESULT: 0x80131018)
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+2025-01-18 04:28:26,637 - ResourceExtractor - INFO - Processing DLL: D:\osu!\osu!gameplay.dll
+2025-01-18 04:28:26,640 - ResourceExtractor - INFO - Processing resource: osu_gameplay.ResourcesStore.resources
+2025-01-18 04:28:26,857 - ResourceExtractor - INFO - Saved image: spinner-warning.png
+2025-01-18 04:28:26,868 - ResourceExtractor - INFO - Saved image: taiko-bar-left.png
+2025-01-18 04:28:26,870 - ResourceExtractor - INFO - Saved: normal-sliderslide.wav
+2025-01-18 04:28:26,874 - ResourceExtractor - INFO - Saved image: mania-stage-hidden.png
+2025-01-18 04:28:26,882 - ResourceExtractor - INFO - Saved image: mania-hit0.png
+2025-01-18 04:28:26,886 - ResourceExtractor - INFO - Saved image: mania-keyS.png
+2025-01-18 04:28:26,889 - ResourceExtractor - INFO - Saved image: mania-key1.png
+2025-01-18 04:28:26,893 - ResourceExtractor - INFO - Saved image: mania-key2.png
+2025-01-18 04:28:26,910 - ResourceExtractor - INFO - Saved image: spinner-clear@2x.png
+2025-01-18 04:28:26,949 - ResourceExtractor - INFO - Saved image: fruit-catcher-kiai@2x.png
+2025-01-18 04:28:26,953 - ResourceExtractor - INFO - Saved image: circularmetre@2x.png
+2025-01-18 04:28:26,960 - ResourceExtractor - INFO - Saved image: fruit-bananas.png
+2025-01-18 04:28:26,966 - ResourceExtractor - INFO - Saved image: taikobigcircleoverlay.png
+2025-01-18 04:28:26,967 - ResourceExtractor - INFO - Saved: nightcore-hat.wav
+2025-01-18 04:28:26,978 - ResourceExtractor - INFO - Saved image: mania-hit0@2x.png
+2025-01-18 04:28:27,000 - ResourceExtractor - INFO - Saved image: mania-warningarrow@2x.png
+2025-01-18 04:28:27,003 - ResourceExtractor - INFO - Saved image: particle100.png
+2025-01-18 04:28:27,006 - ResourceExtractor - INFO - Saved image: particle300.png
+2025-01-18 04:28:27,016 - ResourceExtractor - INFO - Saved image: mania-stage-left@2x.png
+2025-01-18 04:28:27,020 - ResourceExtractor - INFO - Saved image: fruit-pear.png
+2025-01-18 04:28:27,024 - ResourceExtractor - INFO - Saved image: fruit-drop.png
+2025-01-18 04:28:27,035 - ResourceExtractor - INFO - Saved image: fruit-grapes-overlay@2x.png
+2025-01-18 04:28:27,053 - ResourceExtractor - INFO - Saved image: taiko-slider-fail.png
+2025-01-18 04:28:27,057 - ResourceExtractor - INFO - Saved image: target-pt-1.png
+2025-01-18 04:28:27,060 - ResourceExtractor - INFO - Saved image: target-pt-2.png
+2025-01-18 04:28:27,063 - ResourceExtractor - INFO - Saved image: target-pt-3.png
+2025-01-18 04:28:27,067 - ResourceExtractor - INFO - Saved image: target-pt-4.png
+2025-01-18 04:28:27,070 - ResourceExtractor - INFO - Saved image: target-pt-5.png
+2025-01-18 04:28:27,075 - ResourceExtractor - INFO - Saved image: mania-stage-light@2x.png
+2025-01-18 04:28:27,104 - ResourceExtractor - INFO - Saved image: taiko-hit300g@2x.png
+2025-01-18 04:28:27,134 - ResourceExtractor - INFO - Saved image: taiko-hit300k@2x.png
+2025-01-18 04:28:27,311 - ResourceExtractor - INFO - Saved image: spinner-circle@2x.png
+2025-01-18 04:28:27,349 - ResourceExtractor - INFO - Saved image: ready@2x.png
+2025-01-18 04:28:27,356 - ResourceExtractor - INFO - Saved image: play-warningarrow.png
+2025-01-18 04:28:27,372 - ResourceExtractor - INFO - Saved image: lightingL-3@2x.png
+2025-01-18 04:28:27,386 - ResourceExtractor - INFO - Saved image: lightingL-0@2x.png
+2025-01-18 04:28:27,400 - ResourceExtractor - INFO - Saved image: lightingL-2@2x.png
+2025-01-18 04:28:27,414 - ResourceExtractor - INFO - Saved image: lightingL-4@2x.png
+2025-01-18 04:28:27,431 - ResourceExtractor - INFO - Saved image: lightingL-1@2x.png
+2025-01-18 04:28:27,452 - ResourceExtractor - INFO - Saved image: lightingL-5@2x.png
+2025-01-18 04:28:27,458 - ResourceExtractor - INFO - Saved image: play-unranked@2x.png
+2025-01-18 04:28:27,463 - ResourceExtractor - INFO - Saved image: taikohitcircle.png
+2025-01-18 04:28:27,474 - ResourceExtractor - INFO - Saved image: taiko-hit100k.png
+2025-01-18 04:28:27,485 - ResourceExtractor - INFO - Saved image: taiko-hit300g.png
+2025-01-18 04:28:27,499 - ResourceExtractor - INFO - Saved image: taiko-hit300k.png
+2025-01-18 04:28:27,517 - ResourceExtractor - INFO - Saved image: taiko-hit0@2x.png
+2025-01-18 04:28:27,521 - ResourceExtractor - INFO - Saved image: score-x.png
+2025-01-18 04:28:27,524 - ResourceExtractor - INFO - Saved image: score-0.png
+2025-01-18 04:28:27,527 - ResourceExtractor - INFO - Saved image: score-1.png
+2025-01-18 04:28:27,531 - ResourceExtractor - INFO - Saved image: score-2.png
+2025-01-18 04:28:27,535 - ResourceExtractor - INFO - Saved image: score-3.png
+2025-01-18 04:28:27,539 - ResourceExtractor - INFO - Saved image: score-4.png
+2025-01-18 04:28:27,545 - ResourceExtractor - INFO - Saved image: score-5.png
+2025-01-18 04:28:27,549 - ResourceExtractor - INFO - Saved image: score-6.png
+2025-01-18 04:28:27,552 - ResourceExtractor - INFO - Saved image: score-7.png
+2025-01-18 04:28:27,555 - ResourceExtractor - INFO - Saved image: score-8.png
+2025-01-18 04:28:27,559 - ResourceExtractor - INFO - Saved image: score-9.png
+2025-01-18 04:28:27,560 - ResourceExtractor - INFO - Saved: normal-hitnormal.wav
+2025-01-18 04:28:27,565 - ResourceExtractor - INFO - Saved image: sliderb-nd.png
+2025-01-18 04:28:27,680 - ResourceExtractor - INFO - Saved image: comboburst-mania@2x.png
+2025-01-18 04:28:27,689 - ResourceExtractor - INFO - Saved image: taikobigcircleoverlay@2x.png
+2025-01-18 04:28:27,692 - ResourceExtractor - INFO - Saved image: particle50.png
+2025-01-18 04:28:27,693 - ResourceExtractor - INFO - Saved: taiko-normal-hitnormal.wav
+2025-01-18 04:28:27,697 - ResourceExtractor - INFO - Saved image: scorebar-marker@2x.png
+2025-01-18 04:28:27,740 - ResourceExtractor - INFO - Saved image: taiko-bar-right.png
+2025-01-18 04:28:27,754 - ResourceExtractor - INFO - Saved image: fruit-orange@2x.png
+2025-01-18 04:28:27,756 - ResourceExtractor - INFO - Saved: normal-hitfinish.wav
+2025-01-18 04:28:27,763 - ResourceExtractor - INFO - Saved image: sliderb-nd@2x.png
+2025-01-18 04:28:27,774 - ResourceExtractor - INFO - Saved image: sliderfollowcircle.png
+2025-01-18 04:28:27,777 - ResourceExtractor - INFO - Saved image: taiko-barline.png
+2025-01-18 04:28:27,787 - ResourceExtractor - INFO - Saved image: taiko-drum-inner@2x.png
+2025-01-18 04:28:27,795 - ResourceExtractor - INFO - Saved image: mania-hit50.png
+2025-01-18 04:28:27,799 - ResourceExtractor - INFO - Saved image: particle50@2x.png
+2025-01-18 04:28:27,802 - ResourceExtractor - INFO - Saved image: mania-keySD.png
+2025-01-18 04:28:27,806 - ResourceExtractor - INFO - Saved image: mania-key1D.png
+2025-01-18 04:28:27,809 - ResourceExtractor - INFO - Saved image: mania-key2D.png
+2025-01-18 04:28:27,812 - ResourceExtractor - INFO - Saved image: score-percent.png
+2025-01-18 04:28:27,816 - ResourceExtractor - INFO - Saved image: mania-note2.png
+2025-01-18 04:28:27,820 - ResourceExtractor - INFO - Saved image: mania-note1.png
+2025-01-18 04:28:27,824 - ResourceExtractor - INFO - Saved image: mania-noteS.png
+2025-01-18 04:28:27,829 - ResourceExtractor - INFO - Saved image: fruit-pear-overlay.png
+2025-01-18 04:28:27,831 - ResourceExtractor - INFO - Saved: taiko-normal-hitfinish.wav
+2025-01-18 04:28:27,834 - ResourceExtractor - INFO - Saved image: mania-stage-light.png
+2025-01-18 04:28:27,841 - ResourceExtractor - INFO - Saved image: section-fail.png
+2025-01-18 04:28:27,847 - ResourceExtractor - INFO - Saved image: section-pass.png
+2025-01-18 04:28:27,900 - ResourceExtractor - INFO - Saved image: pippidonidle0@2x.png
+2025-01-18 04:28:27,953 - ResourceExtractor - INFO - Saved image: pippidonidle1@2x.png
+2025-01-18 04:28:27,955 - ResourceExtractor - INFO - Saved image: mania-stage-right.png
+2025-01-18 04:28:27,961 - ResourceExtractor - INFO - Saved image: approachcircle@2x.png
+2025-01-18 04:28:28,104 - ResourceExtractor - INFO - Saved image: taiko-bar-right@2x.png
+2025-01-18 04:28:28,110 - ResourceExtractor - INFO - Saved image: hit50@2x.png
+2025-01-18 04:28:28,116 - ResourceExtractor - INFO - Saved image: taiko-hit0.png
+2025-01-18 04:28:28,124 - ResourceExtractor - INFO - Saved image: taiko-glow.png
+2025-01-18 04:28:28,129 - ResourceExtractor - INFO - Saved image: lighting-0.png
+2025-01-18 04:28:28,135 - ResourceExtractor - INFO - Saved image: lightingL-2.png
+2025-01-18 04:28:28,139 - ResourceExtractor - INFO - Saved image: lightingL-3.png
+2025-01-18 04:28:28,145 - ResourceExtractor - INFO - Saved image: lightingL-0.png
+2025-01-18 04:28:28,149 - ResourceExtractor - INFO - Saved image: lightingL-1.png
+2025-01-18 04:28:28,154 - ResourceExtractor - INFO - Saved image: lightingL-4.png
+2025-01-18 04:28:28,160 - ResourceExtractor - INFO - Saved image: lightingL-5.png
+2025-01-18 04:28:28,187 - ResourceExtractor - INFO - Saved image: lighting@2x.png
+2025-01-18 04:28:28,196 - ResourceExtractor - INFO - Saved image: mania-hit300g-0@2x.png
+2025-01-18 04:28:28,206 - ResourceExtractor - INFO - Saved image: mania-hit300g-1@2x.png
+2025-01-18 04:28:28,225 - ResourceExtractor - INFO - Saved image: lightingN@2x.png
+2025-01-18 04:28:28,237 - ResourceExtractor - INFO - Saved image: section-pass@2x.png
+2025-01-18 04:28:28,243 - ResourceExtractor - INFO - Saved image: mania-note2@2x.png
+2025-01-18 04:28:28,246 - ResourceExtractor - INFO - Saved image: mania-note2L-1.png
+2025-01-18 04:28:28,250 - ResourceExtractor - INFO - Saved image: mania-note2L-0.png
+2025-01-18 04:28:28,252 - ResourceExtractor - INFO - Saved image: mania-note2L-3.png
+2025-01-18 04:28:28,256 - ResourceExtractor - INFO - Saved image: mania-note2L-2.png
+2025-01-18 04:28:28,259 - ResourceExtractor - INFO - Saved image: mania-note2L-5.png
+2025-01-18 04:28:28,262 - ResourceExtractor - INFO - Saved image: mania-note2L-4.png
+2025-01-18 04:28:28,267 - ResourceExtractor - INFO - Saved image: mania-note1@2x.png
+2025-01-18 04:28:28,271 - ResourceExtractor - INFO - Saved image: mania-note1L-2.png
+2025-01-18 04:28:28,273 - ResourceExtractor - INFO - Saved image: mania-note1L-3.png
+2025-01-18 04:28:28,276 - ResourceExtractor - INFO - Saved image: mania-note1L-0.png
+2025-01-18 04:28:28,279 - ResourceExtractor - INFO - Saved image: mania-note1L-1.png
+2025-01-18 04:28:28,282 - ResourceExtractor - INFO - Saved image: mania-note1L-4.png
+2025-01-18 04:28:28,285 - ResourceExtractor - INFO - Saved image: mania-note1L-5.png
+2025-01-18 04:28:28,289 - ResourceExtractor - INFO - Saved image: mania-noteS@2x.png
+2025-01-18 04:28:28,292 - ResourceExtractor - INFO - Saved image: mania-noteSL-0.png
+2025-01-18 04:28:28,296 - ResourceExtractor - INFO - Saved image: mania-noteSL-1.png
+2025-01-18 04:28:28,300 - ResourceExtractor - INFO - Saved image: mania-noteSL-2.png
+2025-01-18 04:28:28,304 - ResourceExtractor - INFO - Saved image: mania-noteSL-3.png
+2025-01-18 04:28:28,307 - ResourceExtractor - INFO - Saved image: mania-noteSL-4.png
+2025-01-18 04:28:28,311 - ResourceExtractor - INFO - Saved image: mania-noteSL-5.png
+2025-01-18 04:28:28,317 - ResourceExtractor - INFO - Saved image: hitcircle@2x.png
+2025-01-18 04:28:28,320 - ResourceExtractor - INFO - Saved image: taiko-roll-middle@2x.png
+2025-01-18 04:28:28,321 - ResourceExtractor - INFO - Saved: taiko-normal-hitwhistle.wav
+2025-01-18 04:28:28,326 - ResourceExtractor - INFO - Saved image: hitcircle.png
+2025-01-18 04:28:28,330 - ResourceExtractor - INFO - Saved image: score-comma.png
+2025-01-18 04:28:28,341 - ResourceExtractor - INFO - Saved image: fruit-pear-overlay@2x.png
+2025-01-18 04:28:28,346 - ResourceExtractor - INFO - Saved image: cursortrail.png
+2025-01-18 04:28:28,350 - ResourceExtractor - INFO - Saved image: fruit-apple-overlay.png
+2025-01-18 04:28:28,372 - ResourceExtractor - INFO - Saved image: taiko-flower-group.png
+2025-01-18 04:28:28,374 - ResourceExtractor - INFO - Saved: nightcore-kick.wav
+2025-01-18 04:28:28,375 - ResourceExtractor - INFO - Saved: nightcore-clap.wav
+2025-01-18 04:28:28,394 - ResourceExtractor - INFO - Saved image: spinner-spin@2x.png
+2025-01-18 04:28:28,406 - ResourceExtractor - INFO - Saved image: taiko-bar-right-glow.png
+2025-01-18 04:28:28,409 - ResourceExtractor - INFO - Saved image: particle100@2x.png
+2025-01-18 04:28:28,415 - ResourceExtractor - INFO - Saved image: scorebar-colour@2x.png
+2025-01-18 04:28:28,419 - ResourceExtractor - INFO - Saved image: star3@2x.png
+2025-01-18 04:28:28,423 - ResourceExtractor - INFO - Saved image: star2@2x.png
+2025-01-18 04:28:28,433 - ResourceExtractor - INFO - Saved image: spinner-approachcircle.png
+2025-01-18 04:28:28,446 - ResourceExtractor - INFO - Saved image: flashlightv2_mania.png
+2025-01-18 04:28:28,449 - ResourceExtractor - INFO - Saved image: spinner-middle2.png
+2025-01-18 04:28:28,456 - ResourceExtractor - INFO - Saved image: scoreboard-explosion-1@2x.png
+2025-01-18 04:28:28,460 - ResourceExtractor - INFO - Saved image: scoreboard-explosion-2@2x.png
+2025-01-18 04:28:28,463 - ResourceExtractor - INFO - Saved image: particle300@2x.png
+2025-01-18 04:28:28,464 - ResourceExtractor - INFO - Saved: soft-slidertick.wav
+2025-01-18 04:28:28,465 - ResourceExtractor - INFO - Saved: drum-slidertick.wav
+2025-01-18 04:28:28,490 - ResourceExtractor - INFO - Saved image: taiko-bar-right-glow@2x.png
+2025-01-18 04:28:28,497 - ResourceExtractor - INFO - Saved image: mania-hit200.png
+2025-01-18 04:28:28,505 - ResourceExtractor - INFO - Saved image: mania-hit300.png
+2025-01-18 04:28:28,512 - ResourceExtractor - INFO - Saved image: mania-hit100.png
+2025-01-18 04:28:28,513 - ResourceExtractor - INFO - Saved: nightcore-finish.wav
+2025-01-18 04:28:28,522 - ResourceExtractor - INFO - Saved image: taiko-drum-outer@2x.png
+2025-01-18 04:28:28,527 - ResourceExtractor - INFO - Saved image: taikohitcircleoverlay.png
+2025-01-18 04:28:28,537 - ResourceExtractor - INFO - Saved image: mania-hit50@2x.png
+2025-01-18 04:28:28,540 - ResourceExtractor - INFO - Saved image: cursortrail@2x.png
+2025-01-18 04:28:28,555 - ResourceExtractor - INFO - Saved image: fruit-bananas@2x.png
+2025-01-18 04:28:28,612 - ResourceExtractor - INFO - Saved image: pippidonkiai0@2x.png
+2025-01-18 04:28:28,670 - ResourceExtractor - INFO - Saved image: pippidonkiai1@2x.png
+2025-01-18 04:28:28,684 - ResourceExtractor - INFO - Saved image: count2@2x.png
+2025-01-18 04:28:28,697 - ResourceExtractor - INFO - Saved image: count3@2x.png
+2025-01-18 04:28:28,705 - ResourceExtractor - INFO - Saved image: count1@2x.png
+2025-01-18 04:28:28,713 - ResourceExtractor - INFO - Saved image: circularmetre.png
+2025-01-18 04:28:28,721 - ResourceExtractor - INFO - Saved image: hitcircleselect@2x.png
+2025-01-18 04:28:28,730 - ResourceExtractor - INFO - Saved image: fruit-pear@2x.png
+2025-01-18 04:28:28,734 - ResourceExtractor - INFO - Saved image: taikohitcircle@2x.png
+2025-01-18 04:28:28,738 - ResourceExtractor - INFO - Saved image: taiko-roll-end.png
+2025-01-18 04:28:28,741 - ResourceExtractor - INFO - Saved image: mania-note2H.png
+2025-01-18 04:28:28,745 - ResourceExtractor - INFO - Saved image: mania-note1H.png
+2025-01-18 04:28:28,748 - ResourceExtractor - INFO - Saved image: mania-noteSH.png
+2025-01-18 04:28:28,755 - ResourceExtractor - INFO - Saved image: fruit-orange-overlay@2x.png
+2025-01-18 04:28:28,919 - ResourceExtractor - INFO - Saved image: comboburst-fruits@2x.png
+2025-01-18 04:28:28,939 - ResourceExtractor - INFO - Saved image: sliderfollowcircle@2x.png
+2025-01-18 04:28:28,989 - ResourceExtractor - INFO - Saved image: pippidonclear8@2x.png
+2025-01-18 04:28:29,016 - ResourceExtractor - INFO - Saved image: pippidonclear3@2x.png
+2025-01-18 04:28:29,067 - ResourceExtractor - INFO - Saved image: pippidonclear2@2x.png
+2025-01-18 04:28:29,095 - ResourceExtractor - INFO - Saved image: pippidonclear1@2x.png
+2025-01-18 04:28:29,144 - ResourceExtractor - INFO - Saved image: pippidonclear0@2x.png
+2025-01-18 04:28:29,198 - ResourceExtractor - INFO - Saved image: pippidonclear7@2x.png
+2025-01-18 04:28:29,252 - ResourceExtractor - INFO - Saved image: pippidonclear6@2x.png
+2025-01-18 04:28:29,305 - ResourceExtractor - INFO - Saved image: pippidonclear5@2x.png
+2025-01-18 04:28:29,353 - ResourceExtractor - INFO - Saved image: pippidonclear4@2x.png
+2025-01-18 04:28:29,355 - ResourceExtractor - INFO - Saved image: mania-stage-right@2x.png
+2025-01-18 04:28:29,418 - ResourceExtractor - INFO - Saved image: flashlight2@2x.png
+2025-01-18 04:28:29,423 - ResourceExtractor - INFO - Saved image: mania-keyS@2x.png
+2025-01-18 04:28:29,426 - ResourceExtractor - INFO - Saved image: mania-key1@2x.png
+2025-01-18 04:28:29,431 - ResourceExtractor - INFO - Saved image: mania-key2@2x.png
+2025-01-18 04:28:29,435 - ResourceExtractor - INFO - Saved image: mania-noteSL-0@2x.png
+2025-01-18 04:28:29,440 - ResourceExtractor - INFO - Saved image: mania-noteSL-1@2x.png
+2025-01-18 04:28:29,445 - ResourceExtractor - INFO - Saved image: mania-noteSL-4@2x.png
+2025-01-18 04:28:29,451 - ResourceExtractor - INFO - Saved image: mania-noteSL-5@2x.png
+2025-01-18 04:28:29,457 - ResourceExtractor - INFO - Saved image: mania-noteSL-2@2x.png
+2025-01-18 04:28:29,462 - ResourceExtractor - INFO - Saved image: mania-noteSL-3@2x.png
+2025-01-18 04:28:29,465 - ResourceExtractor - INFO - Saved image: cursormiddle.png
+2025-01-18 04:28:29,479 - ResourceExtractor - INFO - Saved image: section-fail@2x.png
+2025-01-18 04:28:29,501 - ResourceExtractor - INFO - Saved image: taiko-hit100@2x.png
+2025-01-18 04:28:29,510 - ResourceExtractor - INFO - Saved image: go.png
+2025-01-18 04:28:29,533 - ResourceExtractor - INFO - Saved image: taiko-hit100k@2x.png
+2025-01-18 04:28:29,541 - ResourceExtractor - INFO - Saved image: spinner-spin.png
+2025-01-18 04:28:29,609 - ResourceExtractor - INFO - Saved image: spinner-glow.png
+2025-01-18 04:28:29,613 - ResourceExtractor - INFO - Saved image: sliderb2.png
+2025-01-18 04:28:29,616 - ResourceExtractor - INFO - Saved image: sliderb3.png
+2025-01-18 04:28:29,619 - ResourceExtractor - INFO - Saved image: sliderb0.png
+2025-01-18 04:28:29,623 - ResourceExtractor - INFO - Saved image: sliderb1.png
+2025-01-18 04:28:29,626 - ResourceExtractor - INFO - Saved image: sliderb6.png
+2025-01-18 04:28:29,630 - ResourceExtractor - INFO - Saved image: sliderb7.png
+2025-01-18 04:28:29,634 - ResourceExtractor - INFO - Saved image: sliderb4.png
+2025-01-18 04:28:29,638 - ResourceExtractor - INFO - Saved image: sliderb5.png
+2025-01-18 04:28:29,641 - ResourceExtractor - INFO - Saved image: sliderb8.png
+2025-01-18 04:28:29,645 - ResourceExtractor - INFO - Saved image: sliderb9.png
+2025-01-18 04:28:29,648 - ResourceExtractor - INFO - Saved image: reversearrow.png
+2025-01-18 04:28:29,672 - ResourceExtractor - INFO - Saved image: taiko-hit300@2x.png
+2025-01-18 04:28:29,674 - ResourceExtractor - INFO - Saved: drum-hitfinish.wav
+2025-01-18 04:28:29,675 - ResourceExtractor - INFO - Saved: spinnerbonus.wav
+2025-01-18 04:28:29,687 - ResourceExtractor - INFO - Saved image: pippidonfail2.png
+2025-01-18 04:28:29,698 - ResourceExtractor - INFO - Saved image: pippidonfail0.png
+2025-01-18 04:28:29,710 - ResourceExtractor - INFO - Saved image: pippidonfail1.png
+2025-01-18 04:28:29,721 - ResourceExtractor - INFO - Saved image: pippidonidle0.png
+2025-01-18 04:28:29,733 - ResourceExtractor - INFO - Saved image: pippidonidle1.png
+2025-01-18 04:28:29,746 - ResourceExtractor - INFO - Saved image: pippidonkiai0.png
+2025-01-18 04:28:29,758 - ResourceExtractor - INFO - Saved image: pippidonkiai1.png
+2025-01-18 04:28:29,777 - ResourceExtractor - INFO - Saved image: go@2x.png
+2025-01-18 04:28:29,779 - ResourceExtractor - INFO - Saved image: taiko-barline@2x.png
+2025-01-18 04:28:29,780 - ResourceExtractor - INFO - Saved: count.wav
+2025-01-18 04:28:29,783 - ResourceExtractor - INFO - Saved image: hit50.png
+2025-01-18 04:28:29,805 - ResourceExtractor - INFO - Saved image: taiko-glow@2x.png
+2025-01-18 04:28:29,813 - ResourceExtractor - INFO - Saved image: hit300g@2x.png
+2025-01-18 04:28:29,819 - ResourceExtractor - INFO - Saved image: hit300k@2x.png
+2025-01-18 04:28:29,833 - ResourceExtractor - INFO - Saved image: ready.png
+2025-01-18 04:28:29,836 - ResourceExtractor - INFO - Saved image: star3.png
+2025-01-18 04:28:29,838 - ResourceExtractor - INFO - Saved image: star2.png
+2025-01-18 04:28:29,860 - ResourceExtractor - INFO - Saved image: flashlightv2.png
+2025-01-18 04:28:29,861 - ResourceExtractor - INFO - Saved: taiko-soft-hitwhistle.wav
+2025-01-18 04:28:29,865 - ResourceExtractor - INFO - Saved image: approachcircle.png
+2025-01-18 04:28:29,873 - ResourceExtractor - INFO - Saved image: taikohitcircleoverlay@2x.png
+2025-01-18 04:28:29,876 - ResourceExtractor - INFO - Saved image: taiko-roll-end@2x.png
+2025-01-18 04:28:29,885 - ResourceExtractor - INFO - Saved image: lighting.png
+2025-01-18 04:28:29,895 - ResourceExtractor - INFO - Saved image: hitcircleoverlay@2x.png
+2025-01-18 04:28:29,899 - ResourceExtractor - INFO - Saved image: default-2@2x.png
+2025-01-18 04:28:29,902 - ResourceExtractor - INFO - Saved image: default-1@2x.png
+2025-01-18 04:28:29,906 - ResourceExtractor - INFO - Saved image: default-3@2x.png
+2025-01-18 04:28:29,909 - ResourceExtractor - INFO - Saved image: default-6@2x.png
+2025-01-18 04:28:29,913 - ResourceExtractor - INFO - Saved image: default-5@2x.png
+2025-01-18 04:28:29,918 - ResourceExtractor - INFO - Saved image: default-0@2x.png
+2025-01-18 04:28:29,921 - ResourceExtractor - INFO - Saved image: default-7@2x.png
+2025-01-18 04:28:29,925 - ResourceExtractor - INFO - Saved image: default-9@2x.png
+2025-01-18 04:28:29,928 - ResourceExtractor - INFO - Saved image: default-4@2x.png
+2025-01-18 04:28:29,932 - ResourceExtractor - INFO - Saved image: default-8@2x.png
+2025-01-18 04:28:29,934 - ResourceExtractor - INFO - Saved: normal-hitwhistle.wav
+2025-01-18 04:28:29,934 - ResourceExtractor - INFO - Saved: taiko-soft-hitclap.wav
+2025-01-18 04:28:29,935 - ResourceExtractor - INFO - Saved: soft-hitfinish.wav
+2025-01-18 04:28:29,938 - ResourceExtractor - INFO - Saved image: play-unranked.png
+2025-01-18 04:28:29,944 - ResourceExtractor - INFO - Saved image: mania-warningarrow.png
+2025-01-18 04:28:29,957 - ResourceExtractor - INFO - Saved image: mania-hit200@2x.png
+2025-01-18 04:28:29,958 - ResourceExtractor - INFO - Saved: drum-hitnormal.wav
+2025-01-18 04:28:29,976 - ResourceExtractor - INFO - Saved image: scorebar-bg@2x.png
+2025-01-18 04:28:29,994 - ResourceExtractor - INFO - Saved image: mania-hit300@2x.png
+2025-01-18 04:28:30,003 - ResourceExtractor - INFO - Saved image: mania-hit300g-0.png
+2025-01-18 04:28:30,008 - ResourceExtractor - INFO - Saved image: mania-hit300g-1.png
+2025-01-18 04:28:30,011 - ResourceExtractor - INFO - Saved image: sliderscorepoint@2x.png
+2025-01-18 04:28:30,025 - ResourceExtractor - INFO - Saved image: lighting-0@2x.png
+2025-01-18 04:28:30,032 - ResourceExtractor - INFO - Saved image: sliderb-spec@2x.png
+2025-01-18 04:28:30,225 - ResourceExtractor - INFO - Saved image: spinner-top@2x.png
+2025-01-18 04:28:30,235 - ResourceExtractor - INFO - Saved image: fruit-apple-overlay@2x.png
+2025-01-18 04:28:30,236 - ResourceExtractor - INFO - Saved: normal-sliderwhistle.wav
+2025-01-18 04:28:30,240 - ResourceExtractor - INFO - Saved image: sliderb-spec.png
+2025-01-18 04:28:30,245 - ResourceExtractor - INFO - Saved image: hit0@2x.png
+2025-01-18 04:28:30,249 - ResourceExtractor - INFO - Saved image: hit100k.png
+2025-01-18 04:28:30,253 - ResourceExtractor - INFO - Saved image: hit300g.png
+2025-01-18 04:28:30,257 - ResourceExtractor - INFO - Saved image: hit300k.png
+2025-01-18 04:28:30,257 - ResourceExtractor - INFO - Saved: sectionfail.mp3
+2025-01-18 04:28:30,258 - ResourceExtractor - INFO - Saved: sectionpass.mp3
+2025-01-18 04:28:30,271 - ResourceExtractor - INFO - Saved image: fruit-catcher-fail.png
+2025-01-18 04:28:30,283 - ResourceExtractor - INFO - Saved image: fruit-catcher-kiai.png
+2025-01-18 04:28:30,296 - ResourceExtractor - INFO - Saved image: fruit-catcher-idle.png
+2025-01-18 04:28:30,309 - ResourceExtractor - INFO - Saved image: mania-hit100@2x.png
+2025-01-18 04:28:30,314 - ResourceExtractor - INFO - Saved image: mania-note1L-2@2x.png
+2025-01-18 04:28:30,318 - ResourceExtractor - INFO - Saved image: mania-note1L-1@2x.png
+2025-01-18 04:28:30,323 - ResourceExtractor - INFO - Saved image: mania-note1L-3@2x.png
+2025-01-18 04:28:30,328 - ResourceExtractor - INFO - Saved image: mania-note1L-0@2x.png
+2025-01-18 04:28:30,334 - ResourceExtractor - INFO - Saved image: mania-note1L-5@2x.png
+2025-01-18 04:28:30,338 - ResourceExtractor - INFO - Saved image: mania-note1L-4@2x.png
+2025-01-18 04:28:30,343 - ResourceExtractor - INFO - Saved image: target-pt-3@2x.png
+2025-01-18 04:28:30,348 - ResourceExtractor - INFO - Saved image: target-pt-4@2x.png
+2025-01-18 04:28:30,352 - ResourceExtractor - INFO - Saved image: target-pt-1@2x.png
+2025-01-18 04:28:30,357 - ResourceExtractor - INFO - Saved image: target-pt-2@2x.png
+2025-01-18 04:28:30,362 - ResourceExtractor - INFO - Saved image: target-pt-5@2x.png
+2025-01-18 04:28:30,576 - ResourceExtractor - INFO - Saved image: spinner-bottom@2x.png
+2025-01-18 04:28:30,581 - ResourceExtractor - INFO - Saved image: targetoverlay.png
+2025-01-18 04:28:30,583 - ResourceExtractor - INFO - Saved image: taiko-roll-middle.png
+2025-01-18 04:28:30,624 - ResourceExtractor - INFO - Saved image: taiko-slider-fail@2x.png
+2025-01-18 04:28:30,625 - ResourceExtractor - INFO - Saved: soft-hitnormal.wav
+2025-01-18 04:28:30,631 - ResourceExtractor - INFO - Saved image: hitcircleoverlay.png
+2025-01-18 04:28:30,647 - ResourceExtractor - INFO - Saved image: taiko-slider.png
+2025-01-18 04:28:30,650 - ResourceExtractor - INFO - Saved image: score-dot@2x.png
+2025-01-18 04:28:30,651 - ResourceExtractor - INFO - Saved: soft-sliderslide.wav
+2025-01-18 04:28:30,685 - ResourceExtractor - INFO - Saved image: fruit-catcher-fail@2x.png
+2025-01-18 04:28:30,686 - ResourceExtractor - INFO - Saved: taiko-soft-hitfinish.wav
+2025-01-18 04:28:30,688 - ResourceExtractor - INFO - Saved image: taikobigcircle.png
+2025-01-18 04:28:30,692 - ResourceExtractor - INFO - Saved image: fruit-grapes.png
+2025-01-18 04:28:30,695 - ResourceExtractor - INFO - Saved image: scorebar-colour.png
+2025-01-18 04:28:30,695 - ResourceExtractor - INFO - Saved: drum-sliderslide.wav
+2025-01-18 04:28:30,713 - ResourceExtractor - INFO - Saved image: flashlight2.png
+2025-01-18 04:28:30,714 - ResourceExtractor - INFO - Saved: drum-hitclap.wav
+2025-01-18 04:28:30,717 - ResourceExtractor - INFO - Saved image: followpoint@2x.png
+2025-01-18 04:28:30,722 - ResourceExtractor - INFO - Saved image: spinner-rpm@2x.png
+2025-01-18 04:28:30,730 - ResourceExtractor - INFO - Saved image: fruit-grapes@2x.png
+2025-01-18 04:28:30,736 - ResourceExtractor - INFO - Saved image: lightingN.png
+2025-01-18 04:28:30,740 - ResourceExtractor - INFO - Saved image: score-percent@2x.png
+2025-01-18 04:28:30,745 - ResourceExtractor - INFO - Saved image: mania-note2L-1@2x.png
+2025-01-18 04:28:30,750 - ResourceExtractor - INFO - Saved image: mania-note2L-0@2x.png
+2025-01-18 04:28:30,754 - ResourceExtractor - INFO - Saved image: mania-note2L-5@2x.png
+2025-01-18 04:28:30,759 - ResourceExtractor - INFO - Saved image: mania-note2L-4@2x.png
+2025-01-18 04:28:30,764 - ResourceExtractor - INFO - Saved image: mania-note2L-3@2x.png
+2025-01-18 04:28:30,768 - ResourceExtractor - INFO - Saved image: mania-note2L-2@2x.png
+2025-01-18 04:28:30,840 - ResourceExtractor - INFO - Saved image: spinner-middle@2x.png
+2025-01-18 04:28:30,848 - ResourceExtractor - INFO - Saved image: fruit-bananas-overlay@2x.png
+2025-01-18 04:28:30,849 - ResourceExtractor - INFO - Saved: combobreak.mp3
+2025-01-18 04:28:30,910 - ResourceExtractor - INFO - Saved image: comboburst.png
+2025-01-18 04:28:30,923 - ResourceExtractor - INFO - Saved image: pippidonclear8.png
+2025-01-18 04:28:30,932 - ResourceExtractor - INFO - Saved image: pippidonclear1.png
+2025-01-18 04:28:30,944 - ResourceExtractor - INFO - Saved image: pippidonclear0.png
+2025-01-18 04:28:30,953 - ResourceExtractor - INFO - Saved image: pippidonclear3.png
+2025-01-18 04:28:30,965 - ResourceExtractor - INFO - Saved image: pippidonclear2.png
+2025-01-18 04:28:30,978 - ResourceExtractor - INFO - Saved image: pippidonclear5.png
+2025-01-18 04:28:30,991 - ResourceExtractor - INFO - Saved image: pippidonclear4.png
+2025-01-18 04:28:31,004 - ResourceExtractor - INFO - Saved image: pippidonclear7.png
+2025-01-18 04:28:31,018 - ResourceExtractor - INFO - Saved image: pippidonclear6.png
+2025-01-18 04:28:31,022 - ResourceExtractor - INFO - Saved image: scoreboard-explosion-2.png
+2025-01-18 04:28:31,024 - ResourceExtractor - INFO - Saved image: scoreboard-explosion-1.png
+2025-01-18 04:28:31,025 - ResourceExtractor - INFO - Saved: drum-sliderwhistle.wav
+2025-01-18 04:28:31,027 - ResourceExtractor - INFO - Saved image: scorebar-marker.png
+2025-01-18 04:28:31,028 - ResourceExtractor - INFO - Saved: taiko-soft-hitnormal.wav
+2025-01-18 04:28:31,031 - ResourceExtractor - INFO - Saved image: cursor-smoke@2x.png
+2025-01-18 04:28:31,033 - ResourceExtractor - INFO - Saved image: spinner-middle2@2x.png
+2025-01-18 04:28:31,040 - ResourceExtractor - INFO - Saved image: targetoverlay@2x.png
+2025-01-18 04:28:31,046 - ResourceExtractor - INFO - Saved image: fruit-orange.png
+2025-01-18 04:28:31,048 - ResourceExtractor - INFO - Saved image: mania-stage-hidden@2x.png
+2025-01-18 04:28:31,049 - ResourceExtractor - INFO - Saved: soft-hitwhistle.wav
+2025-01-18 04:28:31,049 - ResourceExtractor - INFO - Saved: drum-hitwhistle.wav
+2025-01-18 04:28:31,050 - ResourceExtractor - INFO - Saved: normal-hitclap.wav
+2025-01-18 04:28:31,054 - ResourceExtractor - INFO - Saved image: hitcircleselect.png
+2025-01-18 04:28:31,060 - ResourceExtractor - INFO - Saved image: hit100@2x.png
+2025-01-18 04:28:31,070 - ResourceExtractor - INFO - Saved image: fruit-apple@2x.png
+2025-01-18 04:28:31,074 - ResourceExtractor - INFO - Saved image: taiko-drum-outer.png
+2025-01-18 04:28:31,078 - ResourceExtractor - INFO - Saved image: taiko-drum-inner.png
+2025-01-18 04:28:31,082 - ResourceExtractor - INFO - Saved image: mania-keySD@2x.png
+2025-01-18 04:28:31,089 - ResourceExtractor - INFO - Saved image: hit300@2x.png
+2025-01-18 04:28:31,093 - ResourceExtractor - INFO - Saved image: mania-key1D@2x.png
+2025-01-18 04:28:31,098 - ResourceExtractor - INFO - Saved image: fruit-apple.png
+2025-01-18 04:28:31,102 - ResourceExtractor - INFO - Saved image: mania-key2D@2x.png
+2025-01-18 04:28:31,108 - ResourceExtractor - INFO - Saved image: spinner-clear.png
+2025-01-18 04:28:31,116 - ResourceExtractor - INFO - Saved image: taiko-hit100.png
+2025-01-18 04:28:31,126 - ResourceExtractor - INFO - Saved image: taiko-hit300.png
+2025-01-18 04:28:31,148 - ResourceExtractor - INFO - Saved image: spinner-middle.png
+2025-01-18 04:28:31,352 - ResourceExtractor - INFO - Saved image: comboburst@2x.png
+2025-01-18 04:28:31,409 - ResourceExtractor - INFO - Saved image: spinner-bottom.png
+2025-01-18 04:28:31,413 - ResourceExtractor - INFO - Saved image: fruit-orange-overlay.png
+2025-01-18 04:28:31,417 - ResourceExtractor - INFO - Saved image: fruit-grapes-overlay.png
+2025-01-18 04:28:31,418 - ResourceExtractor - INFO - Saved: normal-slidertick.wav
+2025-01-18 04:28:31,469 - ResourceExtractor - INFO - Saved image: spinner-circle.png
+2025-01-18 04:28:31,487 - ResourceExtractor - INFO - Saved image: play-warningarrow@2x.png
+2025-01-18 04:28:31,494 - ResourceExtractor - INFO - Saved image: count2.png
+2025-01-18 04:28:31,500 - ResourceExtractor - INFO - Saved image: count3.png
+2025-01-18 04:28:31,505 - ResourceExtractor - INFO - Saved image: count1.png
+2025-01-18 04:28:31,511 - ResourceExtractor - INFO - Saved image: cursor@2x.png
+2025-01-18 04:28:31,514 - ResourceExtractor - INFO - Saved image: cursor.png
+2025-01-18 04:28:31,518 - ResourceExtractor - INFO - Saved image: hit100.png
+2025-01-18 04:28:31,522 - ResourceExtractor - INFO - Saved image: hit300.png
+2025-01-18 04:28:31,526 - ResourceExtractor - INFO - Saved image: fruit-bananas-overlay.png
+2025-01-18 04:28:31,527 - ResourceExtractor - INFO - Saved: soft-hitclap.wav
+2025-01-18 04:28:31,531 - ResourceExtractor - INFO - Saved image: taikobigcircle@2x.png
+2025-01-18 04:28:31,535 - ResourceExtractor - INFO - Saved image: targetoverlay-pt-2.png
+2025-01-18 04:28:31,538 - ResourceExtractor - INFO - Saved image: targetoverlay-pt-3.png
+2025-01-18 04:28:31,541 - ResourceExtractor - INFO - Saved image: targetoverlay-pt-1.png
+2025-01-18 04:28:31,544 - ResourceExtractor - INFO - Saved image: targetoverlay-pt-4.png
+2025-01-18 04:28:31,547 - ResourceExtractor - INFO - Saved image: targetoverlay-pt-5.png
+2025-01-18 04:28:31,549 - ResourceExtractor - INFO - Saved image: cursor-smoke.png
+2025-01-18 04:28:31,606 - ResourceExtractor - INFO - Saved image: comboburst-fruits.png
+2025-01-18 04:28:31,609 - ResourceExtractor - INFO - Saved image: score-x@2x.png
+2025-01-18 04:28:31,612 - ResourceExtractor - INFO - Saved image: score-0@2x.png
+2025-01-18 04:28:31,615 - ResourceExtractor - INFO - Saved image: score-1@2x.png
+2025-01-18 04:28:31,618 - ResourceExtractor - INFO - Saved image: score-4@2x.png
+2025-01-18 04:28:31,620 - ResourceExtractor - INFO - Saved image: score-5@2x.png
+2025-01-18 04:28:31,623 - ResourceExtractor - INFO - Saved image: score-2@2x.png
+2025-01-18 04:28:31,627 - ResourceExtractor - INFO - Saved image: score-3@2x.png
+2025-01-18 04:28:31,629 - ResourceExtractor - INFO - Saved image: score-8@2x.png
+2025-01-18 04:28:31,632 - ResourceExtractor - INFO - Saved image: score-9@2x.png
+2025-01-18 04:28:31,636 - ResourceExtractor - INFO - Saved image: score-6@2x.png
+2025-01-18 04:28:31,639 - ResourceExtractor - INFO - Saved image: score-7@2x.png
+2025-01-18 04:28:31,692 - ResourceExtractor - INFO - Saved image: taiko-flower-group@2x.png
+2025-01-18 04:28:31,742 - ResourceExtractor - INFO - Saved image: spinner-top.png
+2025-01-18 04:28:31,747 - ResourceExtractor - INFO - Saved image: spinner-rpm.png
+2025-01-18 04:28:31,748 - ResourceExtractor - INFO - Saved: spinnerspin.wav
+2025-01-18 04:28:31,753 - ResourceExtractor - INFO - Saved image: target@2x.png
+2025-01-18 04:28:31,754 - ResourceExtractor - INFO - Saved: taiko-normal-hitclap.wav
+2025-01-18 04:28:31,757 - ResourceExtractor - INFO - Saved image: target.png
+2025-01-18 04:28:31,760 - ResourceExtractor - INFO - Saved image: score-dot.png
+2025-01-18 04:28:31,760 - ResourceExtractor - INFO - Saved: soft-sliderwhistle.wav
+2025-01-18 04:28:31,773 - ResourceExtractor - INFO - Saved image: spinner-warning@2x.png
+2025-01-18 04:28:31,798 - ResourceExtractor - INFO - Saved image: spinner-approachcircle@2x.png
+2025-01-18 04:28:31,801 - ResourceExtractor - INFO - Saved image: sliderscorepoint.png
+2025-01-18 04:28:31,843 - ResourceExtractor - INFO - Saved image: taiko-slider@2x.png
+2025-01-18 04:28:32,119 - ResourceExtractor - INFO - Saved image: spinner-glow@2x.png
+2025-01-18 04:28:32,127 - ResourceExtractor - INFO - Saved image: sliderb2@2x.png
+2025-01-18 04:28:32,132 - ResourceExtractor - INFO - Saved image: sliderb1@2x.png
+2025-01-18 04:28:32,140 - ResourceExtractor - INFO - Saved image: sliderb6@2x.png
+2025-01-18 04:28:32,147 - ResourceExtractor - INFO - Saved image: sliderb3@2x.png
+2025-01-18 04:28:32,152 - ResourceExtractor - INFO - Saved image: sliderb0@2x.png
+2025-01-18 04:28:32,159 - ResourceExtractor - INFO - Saved image: sliderb5@2x.png
+2025-01-18 04:28:32,164 - ResourceExtractor - INFO - Saved image: sliderb7@2x.png
+2025-01-18 04:28:32,170 - ResourceExtractor - INFO - Saved image: sliderb4@2x.png
+2025-01-18 04:28:32,176 - ResourceExtractor - INFO - Saved image: sliderb9@2x.png
+2025-01-18 04:28:32,182 - ResourceExtractor - INFO - Saved image: sliderb8@2x.png
+2025-01-18 04:28:32,207 - ResourceExtractor - INFO - Saved image: taiko-bar-left@2x.png
+2025-01-18 04:28:32,214 - ResourceExtractor - INFO - Saved image: fruit-drop@2x.png
+2025-01-18 04:28:32,249 - ResourceExtractor - INFO - Saved image: fruit-catcher-idle@2x.png
+2025-01-18 04:28:32,252 - ResourceExtractor - INFO - Saved image: default-3.png
+2025-01-18 04:28:32,255 - ResourceExtractor - INFO - Saved image: default-2.png
+2025-01-18 04:28:32,257 - ResourceExtractor - INFO - Saved image: default-1.png
+2025-01-18 04:28:32,259 - ResourceExtractor - INFO - Saved image: default-0.png
+2025-01-18 04:28:32,261 - ResourceExtractor - INFO - Saved image: default-7.png
+2025-01-18 04:28:32,264 - ResourceExtractor - INFO - Saved image: default-6.png
+2025-01-18 04:28:32,267 - ResourceExtractor - INFO - Saved image: default-5.png
+2025-01-18 04:28:32,269 - ResourceExtractor - INFO - Saved image: default-4.png
+2025-01-18 04:28:32,271 - ResourceExtractor - INFO - Saved image: default-9.png
+2025-01-18 04:28:32,274 - ResourceExtractor - INFO - Saved image: default-8.png
+2025-01-18 04:28:32,279 - ResourceExtractor - INFO - Saved image: hit100k@2x.png
+2025-01-18 04:28:32,326 - ResourceExtractor - INFO - Saved image: pippidonfail2@2x.png
+2025-01-18 04:28:32,372 - ResourceExtractor - INFO - Saved image: pippidonfail0@2x.png
+2025-01-18 04:28:32,419 - ResourceExtractor - INFO - Saved image: pippidonfail1@2x.png
+2025-01-18 04:28:32,422 - ResourceExtractor - INFO - Saved image: star@2x.png
+2025-01-18 04:28:32,425 - ResourceExtractor - INFO - Saved image: followpoint.png
+2025-01-18 04:28:32,432 - ResourceExtractor - INFO - Saved image: scorebar-bg.png
+2025-01-18 04:28:32,436 - ResourceExtractor - INFO - Saved image: reversearrow@2x.png
+2025-01-18 04:28:32,440 - ResourceExtractor - INFO - Saved image: cursormiddle@2x.png
+2025-01-18 04:28:32,442 - ResourceExtractor - INFO - Saved image: mania-stage-hint.png
+2025-01-18 04:28:32,444 - ResourceExtractor - INFO - Saved image: mania-stage-left.png
+2025-01-18 04:28:32,445 - ResourceExtractor - INFO - Saved: failsound.mp3
+2025-01-18 04:28:32,448 - ResourceExtractor - INFO - Saved image: mania-stage-hint@2x.png
+2025-01-18 04:28:32,455 - ResourceExtractor - INFO - Saved image: mania-note2H@2x.png
+2025-01-18 04:28:32,459 - ResourceExtractor - INFO - Saved image: score-comma@2x.png
+2025-01-18 04:28:32,464 - ResourceExtractor - INFO - Saved image: mania-note1H@2x.png
+2025-01-18 04:28:32,470 - ResourceExtractor - INFO - Saved image: targetoverlay-pt-3@2x.png
+2025-01-18 04:28:32,475 - ResourceExtractor - INFO - Saved image: targetoverlay-pt-2@2x.png
+2025-01-18 04:28:32,480 - ResourceExtractor - INFO - Saved image: targetoverlay-pt-4@2x.png
+2025-01-18 04:28:32,485 - ResourceExtractor - INFO - Saved image: targetoverlay-pt-1@2x.png
+2025-01-18 04:28:32,490 - ResourceExtractor - INFO - Saved image: targetoverlay-pt-5@2x.png
+2025-01-18 04:28:32,494 - ResourceExtractor - INFO - Saved image: hit0.png
+2025-01-18 04:28:32,496 - ResourceExtractor - INFO - Saved image: star.png
+2025-01-18 04:28:32,501 - ResourceExtractor - INFO - Saved image: mania-noteSH@2x.png
+2025-01-18 04:28:32,533 - ResourceExtractor - INFO - Saved image: comboburst-mania.png
+2025-01-18 04:28:32,535 - ResourceExtractor - INFO - Processing DLL: D:\osu!\osu!seasonal.dll
+2025-01-18 04:28:32,538 - ResourceExtractor - INFO - Processing resource: osu_seasonal.ResourcesStore.resources
+2025-01-18 04:28:32,642 - ResourceExtractor - INFO - Saved image: menu-osu@2x.png
+2025-01-18 04:28:32,645 - ResourceExtractor - INFO - Saved: heartbeat.mp3
+2025-01-18 04:28:32,669 - ResourceExtractor - INFO - Saved image: menu-osu.png
+2025-01-18 04:28:32,670 - ResourceExtractor - INFO - Saved: welcome.mp3
+2025-01-18 04:28:32,670 - ResourceExtractor - INFO - Processing DLL: D:\osu!\osu!ui.dll
+2025-01-18 04:28:32,672 - ResourceExtractor - INFO - Processing resource: osu_ui.ResourcesStore.resources
+2025-01-18 04:28:32,814 - ResourceExtractor - INFO - Saved image: menu-button-background@2x.png
+2025-01-18 04:28:32,817 - ResourceExtractor - INFO - Saved image: test-build-overlay.png
+2025-01-18 04:28:32,819 - ResourceExtractor - INFO - Saved image: menu-copyright.png
+2025-01-18 04:28:32,821 - ResourceExtractor - INFO - Saved image: editor-button-play@2x.png
+2025-01-18 04:28:32,828 - ResourceExtractor - INFO - Saved image: menu-copyright@2x.png
+2025-01-18 04:28:32,831 - ResourceExtractor - INFO - Saved image: ranking-maxcombo.png
+2025-01-18 04:28:32,832 - ResourceExtractor - INFO - Saved: Exo2.0-ExtraBold.ttf
+2025-01-18 04:28:32,837 - ResourceExtractor - INFO - Saved image: selection-mods-over@2x.png
+2025-01-18 04:28:32,840 - ResourceExtractor - INFO - Saved image: ranking-XH-small.png
+2025-01-18 04:28:32,842 - ResourceExtractor - INFO - Saved image: selection-mod-scorev2.png
+2025-01-18 04:28:32,846 - ResourceExtractor - INFO - Saved image: editor-beat-selector-buttonleft@2x.png
+2025-01-18 04:28:32,887 - ResourceExtractor - INFO - Saved image: medal-disc-spin-masked@2x.png
+2025-01-18 04:28:32,894 - ResourceExtractor - INFO - Saved image: editor-draw-spinner@2x.png
+2025-01-18 04:28:32,899 - ResourceExtractor - INFO - Saved image: selection-mod-relax2@2x.png
+2025-01-18 04:28:32,909 - ResourceExtractor - INFO - Saved image: mode-fruits-med@2x.png
+2025-01-18 04:28:32,955 - ResourceExtractor - INFO - Saved image: ranking-panel@2x.png
+2025-01-18 04:28:32,956 - ResourceExtractor - INFO - Saved: Exo2.0-MediumItalic.ttf
+2025-01-18 04:28:32,959 - ResourceExtractor - INFO - Saved image: editor-sound-whistle.png
+2025-01-18 04:28:33,020 - ResourceExtractor - INFO - Saved image: worldmap@2x.png
+2025-01-18 04:28:33,022 - ResourceExtractor - INFO - Saved: Exo2.0-Thin.ttf
+2025-01-18 04:28:33,027 - ResourceExtractor - INFO - Saved image: menu-update@2x.png
+2025-01-18 04:28:33,028 - ResourceExtractor - INFO - Saved: Exo2.0-Bold.ttf
+2025-01-18 04:28:33,032 - ResourceExtractor - INFO - Saved image: overlay-hidemode2@2x.png
+2025-01-18 04:28:33,034 - ResourceExtractor - INFO - Saved image: selection-mod-halftime.png
+2025-01-18 04:28:33,037 - ResourceExtractor - INFO - Saved image: overlay-ticker.png
+2025-01-18 04:28:33,165 - ResourceExtractor - INFO - Saved image: ranking-background-overlay@2x.png
+2025-01-18 04:28:33,167 - ResourceExtractor - INFO - Saved image: ranking-dialog-middle.png
+2025-01-18 04:28:33,184 - ResourceExtractor - INFO - Saved image: pause-replay@2x.png
+2025-01-18 04:28:33,195 - ResourceExtractor - INFO - Saved image: editor-timing-window-bg.png
+2025-01-18 04:28:33,198 - ResourceExtractor - INFO - Saved image: editor-draw-newcombo.png
+2025-01-18 04:28:33,201 - ResourceExtractor - INFO - Saved image: user-bg.png
+2025-01-18 04:28:33,207 - ResourceExtractor - INFO - Saved image: pause-retry.png
+2025-01-18 04:28:33,209 - ResourceExtractor - INFO - Saved image: ranking-C-small.png
+2025-01-18 04:28:33,210 - ResourceExtractor - INFO - Saved: pause-hover.mp3
+2025-01-18 04:28:33,211 - ResourceExtractor - INFO - Saved: sh_BlurHorizontal_fs.frag
+2025-01-18 04:28:33,212 - ResourceExtractor - INFO - Saved image: selection-tab.png
+2025-01-18 04:28:33,313 - ResourceExtractor - INFO - Saved image: medal-disc@2x.png
+2025-01-18 04:28:33,314 - ResourceExtractor - INFO - Saved: sh_Blur2D_h.glsl
+2025-01-18 04:28:33,317 - ResourceExtractor - INFO - Saved image: overlay-endreplay@2x.png
+2025-01-18 04:28:33,318 - ResourceExtractor - INFO - Saved: sh_Position_vs.vert
+2025-01-18 04:28:33,325 - ResourceExtractor - INFO - Saved image: commentbox@2x.png
+2025-01-18 04:28:33,329 - ResourceExtractor - INFO - Saved image: featured.png
+2025-01-18 04:28:33,333 - ResourceExtractor - INFO - Saved image: editor-kiai@2x.png
+2025-01-18 04:28:33,356 - ResourceExtractor - INFO - Saved image: welcome_text@2x.png
+2025-01-18 04:28:33,357 - ResourceExtractor - INFO - Saved: Exo2.0-SemiBoldItalic.ttf
+2025-01-18 04:28:33,360 - ResourceExtractor - INFO - Saved image: mode-fruits-med.png
+2025-01-18 04:28:33,362 - ResourceExtractor - INFO - Saved image: selection-ranked@2x.png
+2025-01-18 04:28:33,364 - ResourceExtractor - INFO - Saved image: lobby-crown.png
+2025-01-18 04:28:33,369 - ResourceExtractor - INFO - Saved image: selection-mod-nightcore@2x.png
+2025-01-18 04:28:33,373 - ResourceExtractor - INFO - Saved image: selection-mod-flashlight@2x.png
+2025-01-18 04:28:33,389 - ResourceExtractor - INFO - Saved image: menu-button-edit@2x.png
+2025-01-18 04:28:33,392 - ResourceExtractor - INFO - Saved image: selection-mod-fadeout.png
+2025-01-18 04:28:33,398 - ResourceExtractor - INFO - Saved image: selection-options-over@2x.png
+2025-01-18 04:28:33,434 - ResourceExtractor - INFO - Saved image: editor-timing-window-bg@2x.png
+2025-01-18 04:28:33,438 - ResourceExtractor - INFO - Saved image: medal-glow.png
+2025-01-18 04:28:33,470 - ResourceExtractor - INFO - Saved image: medal-disc.png
+2025-01-18 04:28:33,473 - ResourceExtractor - INFO - Saved image: button-right.png
+2025-01-18 04:28:33,474 - ResourceExtractor - INFO - Saved image: scoreentry-comma.png
+2025-01-18 04:28:33,478 - ResourceExtractor - INFO - Saved image: mode-osu-med.png
+2025-01-18 04:28:33,480 - ResourceExtractor - INFO - Saved image: seekbar-over.png
+2025-01-18 04:28:33,487 - ResourceExtractor - INFO - Saved image: pause-replay.png
+2025-01-18 04:28:33,499 - ResourceExtractor - INFO - Saved image: ranking-dialog-left.png
+2025-01-18 04:28:33,506 - ResourceExtractor - INFO - Saved image: selection-notranked.png
+2025-01-18 04:28:33,509 - ResourceExtractor - INFO - Saved image: overlay-online@2x.png
+2025-01-18 04:28:33,512 - ResourceExtractor - INFO - Saved image: editor-draw-newcombo-expand.png
+2025-01-18 04:28:33,513 - ResourceExtractor - INFO - Saved image: scoreentry-percent.png
+2025-01-18 04:28:33,517 - ResourceExtractor - INFO - Saved image: coins-bg@2x.png
+2025-01-18 04:28:33,531 - ResourceExtractor - INFO - Saved image: menu-button-play@2x.png
+2025-01-18 04:28:33,535 - ResourceExtractor - INFO - Saved image: rank-forum@2x.png
+2025-01-18 04:28:33,537 - ResourceExtractor - INFO - Saved image: overlay-collections.png
+2025-01-18 04:28:33,541 - ResourceExtractor - INFO - Saved image: selection-mod-easy@2x.png
+2025-01-18 04:28:33,545 - ResourceExtractor - INFO - Saved image: menu-update.png
+2025-01-18 04:28:33,547 - ResourceExtractor - INFO - Saved image: menu-vis@2x.png
+2025-01-18 04:28:33,551 - ResourceExtractor - INFO - Saved image: editor-button-test@2x.png
+2025-01-18 04:28:33,556 - ResourceExtractor - INFO - Saved image: notification@2x.png
+2025-01-18 04:28:33,559 - ResourceExtractor - INFO - Saved image: multi-skipped@2x.png
+2025-01-18 04:28:33,569 - ResourceExtractor - INFO - Saved image: songselect-top.png
+2025-01-18 04:28:33,571 - ResourceExtractor - INFO - Saved: match-ready.wav
+2025-01-18 04:28:33,572 - ResourceExtractor - INFO - Saved: match-start.wav
+2025-01-18 04:28:33,582 - ResourceExtractor - INFO - Saved image: play-skip@2x.png
+2025-01-18 04:28:33,584 - ResourceExtractor - INFO - Saved image: opaque-white.png
+2025-01-18 04:28:33,585 - ResourceExtractor - INFO - Saved: match-leave.wav
+2025-01-18 04:28:33,586 - ResourceExtractor - INFO - Saved: key-delete.mp3
+2025-01-18 04:28:33,587 - ResourceExtractor - INFO - Saved image: scoreentry-x@2x.png
+2025-01-18 04:28:33,588 - ResourceExtractor - INFO - Saved: pause-retry-click.mp3
+2025-01-18 04:28:33,590 - ResourceExtractor - INFO - Saved image: scoreentry-4@2x.png
+2025-01-18 04:28:33,592 - ResourceExtractor - INFO - Saved image: scoreentry-5@2x.png
+2025-01-18 04:28:33,594 - ResourceExtractor - INFO - Saved image: scoreentry-0@2x.png
+2025-01-18 04:28:33,604 - ResourceExtractor - INFO - Saved image: scoreentry-1@2x.png
+2025-01-18 04:28:33,606 - ResourceExtractor - INFO - Saved image: scoreentry-6@2x.png
+2025-01-18 04:28:33,608 - ResourceExtractor - INFO - Saved image: scoreentry-7@2x.png
+2025-01-18 04:28:33,610 - ResourceExtractor - INFO - Saved image: scoreentry-2@2x.png
+2025-01-18 04:28:33,612 - ResourceExtractor - INFO - Saved image: scoreentry-3@2x.png
+2025-01-18 04:28:33,614 - ResourceExtractor - INFO - Saved image: scoreentry-8@2x.png
+2025-01-18 04:28:33,616 - ResourceExtractor - INFO - Saved image: scoreentry-9@2x.png
+2025-01-18 04:28:33,620 - ResourceExtractor - INFO - Saved image: button-left@2x.png
+2025-01-18 04:28:33,624 - ResourceExtractor - INFO - Saved image: editor-draw-lock.png
+2025-01-18 04:28:33,627 - ResourceExtractor - INFO - Saved image: editor-draw-hold.png
+2025-01-18 04:28:33,629 - ResourceExtractor - INFO - Saved image: volume-circle-bg.png
+2025-01-18 04:28:33,630 - ResourceExtractor - INFO - Saved: notify1.mp3
+2025-01-18 04:28:33,632 - ResourceExtractor - INFO - Saved image: levelbar-bg.png
+2025-01-18 04:28:33,635 - ResourceExtractor - INFO - Saved image: levelbar@2x.png
+2025-01-18 04:28:33,639 - ResourceExtractor - INFO - Saved image: selection-mode-over@2x.png
+2025-01-18 04:28:33,644 - ResourceExtractor - INFO - Saved image: selection-update.png
+2025-01-18 04:28:33,648 - ResourceExtractor - INFO - Saved image: selection-options-over.png
+2025-01-18 04:28:33,653 - ResourceExtractor - INFO - Saved image: songselect-bottom@2x.png
+2025-01-18 04:28:33,659 - ResourceExtractor - INFO - Saved image: selection-mod-hardrock.png
+2025-01-18 04:28:33,662 - ResourceExtractor - INFO - Saved image: inputoverlay-key.png
+2025-01-18 04:28:33,665 - ResourceExtractor - INFO - Saved image: warmup-bg@2x.png
+2025-01-18 04:28:33,669 - ResourceExtractor - INFO - Saved image: editor-sound-finish.png
+2025-01-18 04:28:33,672 - ResourceExtractor - INFO - Saved image: selection-tab@2x.png
+2025-01-18 04:28:33,677 - ResourceExtractor - INFO - Saved image: ranking-S-small@2x.png
+2025-01-18 04:28:33,680 - ResourceExtractor - INFO - Saved image: lobby-boot.png
+2025-01-18 04:28:33,682 - ResourceExtractor - INFO - Saved image: lobby-lock.png
+2025-01-18 04:28:33,685 - ResourceExtractor - INFO - Saved image: ranking-SH-small@2x.png
+2025-01-18 04:28:33,689 - ResourceExtractor - INFO - Saved image: selection-mode.png
+2025-01-18 04:28:33,692 - ResourceExtractor - INFO - Saved image: selection-mods.png
+2025-01-18 04:28:33,698 - ResourceExtractor - INFO - Saved image: selection-drop.png
+2025-01-18 04:28:33,706 - ResourceExtractor - INFO - Saved image: mode-osu.png
+2025-01-18 04:28:33,712 - ResourceExtractor - INFO - Saved image: mode-mania.png
+2025-01-18 04:28:33,715 - ResourceExtractor - INFO - Saved image: overlay-online.png
+2025-01-18 04:28:33,716 - ResourceExtractor - INFO - Saved image: fpss-6@2x.png
+2025-01-18 04:28:33,719 - ResourceExtractor - INFO - Saved image: fpss-7@2x.png
+2025-01-18 04:28:33,721 - ResourceExtractor - INFO - Saved image: fpss-8@2x.png
+2025-01-18 04:28:33,723 - ResourceExtractor - INFO - Saved image: fpss-9@2x.png
+2025-01-18 04:28:33,724 - ResourceExtractor - INFO - Saved image: fpss-2@2x.png
+2025-01-18 04:28:33,726 - ResourceExtractor - INFO - Saved image: fpss-3@2x.png
+2025-01-18 04:28:33,728 - ResourceExtractor - INFO - Saved image: fpss-4@2x.png
+2025-01-18 04:28:33,729 - ResourceExtractor - INFO - Saved image: fpss-5@2x.png
+2025-01-18 04:28:33,731 - ResourceExtractor - INFO - Saved image: fpss-0@2x.png
+2025-01-18 04:28:33,733 - ResourceExtractor - INFO - Saved image: fpss-1@2x.png
+2025-01-18 04:28:33,736 - ResourceExtractor - INFO - Saved image: selection-random.png
+2025-01-18 04:28:33,739 - ResourceExtractor - INFO - Saved image: selection-ranked.png
+2025-01-18 04:28:33,745 - ResourceExtractor - INFO - Saved image: mode-taiko.png
+2025-01-18 04:28:33,745 - ResourceExtractor - INFO - Saved: shutter.wav
+2025-01-18 04:28:33,749 - ResourceExtractor - INFO - Saved image: commentbox.png
+2025-01-18 04:28:33,753 - ResourceExtractor - INFO - Saved image: inputoverlay-background.png
+2025-01-18 04:28:33,771 - ResourceExtractor - INFO - Saved image: ranking-title@2x.png
+2025-01-18 04:28:33,774 - ResourceExtractor - INFO - Saved image: overlay-show.png
+2025-01-18 04:28:33,777 - ResourceExtractor - INFO - Saved image: overlay-hide.png
+2025-01-18 04:28:33,779 - ResourceExtractor - INFO - Saved image: overlay-half.png
+2025-01-18 04:28:33,788 - ResourceExtractor - INFO - Saved image: lazer-stable-shortcuts@2x.png
+2025-01-18 04:28:33,794 - ResourceExtractor - INFO - Saved image: button-middle@2x.png
+2025-01-18 04:28:33,797 - ResourceExtractor - INFO - Saved image: mode-osu-small.png
+2025-01-18 04:28:33,799 - ResourceExtractor - INFO - Saved image: editor-metronome-beat-lighting.png
+2025-01-18 04:28:33,860 - ResourceExtractor - INFO - Saved image: menu-osu@2x.png
+2025-01-18 04:28:33,866 - ResourceExtractor - INFO - Saved image: play-skip.png
+2025-01-18 04:28:33,868 - ResourceExtractor - INFO - Saved image: overlay-show@2x.png
+2025-01-18 04:28:33,869 - ResourceExtractor - INFO - Saved: sh_CursorTrail_vs.vert
+2025-01-18 04:28:33,871 - ResourceExtractor - INFO - Saved image: editor-button-jumpto@2x.png
+2025-01-18 04:28:33,874 - ResourceExtractor - INFO - Saved image: fpss-fps.png
+2025-01-18 04:28:33,876 - ResourceExtractor - INFO - Saved image: selection-mod-cinema.png
+2025-01-18 04:28:33,877 - ResourceExtractor - INFO - Saved: Exo2.0-Black.ttf
+2025-01-18 04:28:33,885 - ResourceExtractor - INFO - Saved image: welcome_text.png
+2025-01-18 04:28:33,890 - ResourceExtractor - INFO - Saved image: menu-connection@2x.png
+2025-01-18 04:28:33,891 - ResourceExtractor - INFO - Saved: Exo2.0-Light.ttf
+2025-01-18 04:28:33,900 - ResourceExtractor - INFO - Saved image: dontmulti.png
+2025-01-18 04:28:33,918 - ResourceExtractor - INFO - Saved image: searching@2x.png
+2025-01-18 04:28:33,926 - ResourceExtractor - INFO - Saved image: selection-norecords@2x.png
+2025-01-18 04:28:33,926 - ResourceExtractor - INFO - Saved: Exo2.0-LightItalic.ttf
+2025-01-18 04:28:33,929 - ResourceExtractor - INFO - Saved image: rank-prev@2x.png
+2025-01-18 04:28:33,932 - ResourceExtractor - INFO - Saved image: overlay-options2@2x.png
+2025-01-18 04:28:33,935 - ResourceExtractor - INFO - Saved image: editor-timeline-minus@2x.png
+2025-01-18 04:28:33,936 - ResourceExtractor - INFO - Saved: click-close.mp3
+2025-01-18 04:28:33,975 - ResourceExtractor - INFO - Saved image: ranking-perfect@2x.png
+2025-01-18 04:28:33,977 - ResourceExtractor - INFO - Saved image: fps-8@2x.png
+2025-01-18 04:28:33,979 - ResourceExtractor - INFO - Saved image: fps-9@2x.png
+2025-01-18 04:28:33,981 - ResourceExtractor - INFO - Saved image: fps-4@2x.png
+2025-01-18 04:28:33,982 - ResourceExtractor - INFO - Saved image: fps-7@2x.png
+2025-01-18 04:28:33,984 - ResourceExtractor - INFO - Saved image: fps-5@2x.png
+2025-01-18 04:28:33,986 - ResourceExtractor - INFO - Saved image: fps-0@2x.png
+2025-01-18 04:28:33,987 - ResourceExtractor - INFO - Saved image: fps-3@2x.png
+2025-01-18 04:28:33,989 - ResourceExtractor - INFO - Saved image: fps-6@2x.png
+2025-01-18 04:28:33,991 - ResourceExtractor - INFO - Saved image: fps-1@2x.png
+2025-01-18 04:28:33,993 - ResourceExtractor - INFO - Saved image: fps-2@2x.png
+2025-01-18 04:28:33,993 - ResourceExtractor - INFO - Saved: coins-use.mp3
+2025-01-18 04:28:33,994 - ResourceExtractor - INFO - Saved: click-short.mp3
+2025-01-18 04:28:34,014 - ResourceExtractor - INFO - Saved image: ranking-dialog-left@2x.png
+2025-01-18 04:28:34,019 - ResourceExtractor - INFO - Saved image: menu-bat@2x.png
+2025-01-18 04:28:34,020 - ResourceExtractor - INFO - Saved: Exo2.0-ThinItalic.ttf
+2025-01-18 04:28:34,023 - ResourceExtractor - INFO - Saved image: selection-mod-fadein.png
+2025-01-18 04:28:34,026 - ResourceExtractor - INFO - Saved image: editor-beat-selector-back@2x.png
+2025-01-18 04:28:34,034 - ResourceExtractor - INFO - Saved image: unpause.png
+2025-01-18 04:28:34,035 - ResourceExtractor - INFO - Saved: Exo2.0-BlackItalic.ttf
+2025-01-18 04:28:34,037 - ResourceExtractor - INFO - Saved image: levelbar.png
+2025-01-18 04:28:34,039 - ResourceExtractor - INFO - Saved image: levelbar-bg@2x.png
+2025-01-18 04:28:34,042 - ResourceExtractor - INFO - Saved image: ranking-S-small.png
+2025-01-18 04:28:34,046 - ResourceExtractor - INFO - Saved image: mode-taiko-med.png
+2025-01-18 04:28:34,048 - ResourceExtractor - INFO - Saved: Aller_Lt.ttf
+2025-01-18 04:28:34,048 - ResourceExtractor - INFO - Saved: Aller_Bd.ttf
+2025-01-18 04:28:34,050 - ResourceExtractor - INFO - Saved image: editor-menu-bg-top.png
+2025-01-18 04:28:34,327 - ResourceExtractor - INFO - Saved image: menu-background@2x.png
+2025-01-18 04:28:34,344 - ResourceExtractor - INFO - Saved image: pause-back@2x.png
+2025-01-18 04:28:34,345 - ResourceExtractor - INFO - Saved: Exo2.0-Regular.ttf
+2025-01-18 04:28:34,346 - ResourceExtractor - INFO - Saved: click-short-confirm.mp3
+2025-01-18 04:28:34,358 - ResourceExtractor - INFO - Saved image: selection-drop@2x.png
+2025-01-18 04:28:34,385 - ResourceExtractor - INFO - Saved image: songselect-top@2x.png
+2025-01-18 04:28:34,389 - ResourceExtractor - INFO - Saved image: featured-hover.png
+2025-01-18 04:28:34,391 - ResourceExtractor - INFO - Saved: welcome_piano.mp3
+2025-01-18 04:28:34,391 - ResourceExtractor - INFO - Saved: sh_BlurVertical_fs.frag
+2025-01-18 04:28:34,394 - ResourceExtractor - INFO - Saved image: editor-timeline-timinginfo.png
+2025-01-18 04:28:34,411 - ResourceExtractor - INFO - Saved image: menu-button-freeplay-over@2x.png
+2025-01-18 04:28:34,414 - ResourceExtractor - INFO - Saved image: mode-taiko-small@2x.png
+2025-01-18 04:28:34,438 - ResourceExtractor - INFO - Saved image: epilepsy@2x.png
+2025-01-18 04:28:34,440 - ResourceExtractor - INFO - Saved image: scoreentry-dot@2x.png
+2025-01-18 04:28:34,446 - ResourceExtractor - INFO - Saved image: ranking-B-small@2x.png
+2025-01-18 04:28:34,449 - ResourceExtractor - INFO - Saved image: selection-mod-nightcore.png
+2025-01-18 04:28:34,455 - ResourceExtractor - INFO - Saved image: selection-mod-cinema@2x.png
+2025-01-18 04:28:34,457 - ResourceExtractor - INFO - Saved image: selection-loved.png
+2025-01-18 04:28:34,462 - ResourceExtractor - INFO - Saved image: menu-osudirect.png
+2025-01-18 04:28:34,475 - ResourceExtractor - INFO - Saved image: editor-metronome-bg@2x.png
+2025-01-18 04:28:34,479 - ResourceExtractor - INFO - Saved image: ranking-SH-small.png
+2025-01-18 04:28:34,480 - ResourceExtractor - INFO - Saved: select-difficulty.mp3
+2025-01-18 04:28:34,486 - ResourceExtractor - INFO - Saved image: volume-circle-bg-max.png
+2025-01-18 04:28:34,490 - ResourceExtractor - INFO - Saved image: selection-mod-autoplay.png
+2025-01-18 04:28:34,492 - ResourceExtractor - INFO - Saved image: fps-dropped@2x.png
+2025-01-18 04:28:34,496 - ResourceExtractor - INFO - Saved image: topmenu-bg.png
+2025-01-18 04:28:34,500 - ResourceExtractor - INFO - Saved image: overlay-options@2x.png
+2025-01-18 04:28:34,503 - ResourceExtractor - INFO - Saved image: selection-mod-nofail.png
+2025-01-18 04:28:34,505 - ResourceExtractor - INFO - Saved image: overlay-endreplay.png
+2025-01-18 04:28:34,509 - ResourceExtractor - INFO - Saved image: editor-draw-normal@2x.png
+2025-01-18 04:28:34,526 - ResourceExtractor - INFO - Saved image: menu-button-charts-over@2x.png
+2025-01-18 04:28:34,529 - ResourceExtractor - INFO - Saved image: overlay-ticker@2x.png
+2025-01-18 04:28:34,530 - ResourceExtractor - INFO - Saved: menu-play-click.mp3
+2025-01-18 04:28:34,533 - ResourceExtractor - INFO - Saved image: editor-draw-slider@2x.png
+2025-01-18 04:28:34,535 - ResourceExtractor - INFO - Saved image: rank-refresh.png
+2025-01-18 04:28:34,538 - ResourceExtractor - INFO - Saved image: ranking-B-small.png
+2025-01-18 04:28:34,552 - ResourceExtractor - INFO - Saved image: ranking-X.png
+2025-01-18 04:28:34,565 - ResourceExtractor - INFO - Saved image: ranking-S.png
+2025-01-18 04:28:34,578 - ResourceExtractor - INFO - Saved image: ranking-D.png
+2025-01-18 04:28:34,592 - ResourceExtractor - INFO - Saved image: ranking-B.png
+2025-01-18 04:28:34,603 - ResourceExtractor - INFO - Saved image: ranking-C.png
+2025-01-18 04:28:34,618 - ResourceExtractor - INFO - Saved image: ranking-A.png
+2025-01-18 04:28:34,619 - ResourceExtractor - INFO - Saved: pause-back-click.mp3
+2025-01-18 04:28:34,621 - ResourceExtractor - INFO - Saved image: editor-timeline-right.png
+2025-01-18 04:28:34,623 - ResourceExtractor - INFO - Saved image: editor-timeline-reset.png
+2025-01-18 04:28:34,626 - ResourceExtractor - INFO - Saved image: overlay-hide@2x.png
+2025-01-18 04:28:34,628 - ResourceExtractor - INFO - Saved image: editor-timeline-minus.png
+2025-01-18 04:28:34,631 - ResourceExtractor - INFO - Saved image: button-middle.png
+2025-01-18 04:28:34,634 - ResourceExtractor - INFO - Saved image: editor-sound-clap.png
+2025-01-18 04:28:34,639 - ResourceExtractor - INFO - Saved image: selection-mod-nofail@2x.png
+2025-01-18 04:28:34,642 - ResourceExtractor - INFO - Saved image: selection-mod-hidden.png
+2025-01-18 04:28:34,646 - ResourceExtractor - INFO - Saved image: selection-mod-relax@2x.png
+2025-01-18 04:28:34,651 - ResourceExtractor - INFO - Saved image: menu-osudirect-over.png
+2025-01-18 04:28:34,652 - ResourceExtractor - INFO - Saved: medal-get.mp3
+2025-01-18 04:28:34,666 - ResourceExtractor - INFO - Saved image: mode-osu@2x.png
+2025-01-18 04:28:34,670 - ResourceExtractor - INFO - Saved image: ranking-D-small@2x.png
+2025-01-18 04:28:34,672 - ResourceExtractor - INFO - Saved image: editor-timeline-right@2x.png
+2025-01-18 04:28:34,685 - ResourceExtractor - INFO - Saved image: menu-button-exit@2x.png
+2025-01-18 04:28:34,688 - ResourceExtractor - INFO - Saved image: rank-next.png
+2025-01-18 04:28:34,691 - ResourceExtractor - INFO - Saved image: rank-prev.png
+2025-01-18 04:28:34,693 - ResourceExtractor - INFO - Saved image: overlay-hidemode2.png
+2025-01-18 04:28:34,729 - ResourceExtractor - INFO - Saved image: ranking-XH@2x.png
+2025-01-18 04:28:34,739 - ResourceExtractor - INFO - Saved image: volume-background-gradient.png
+2025-01-18 04:28:34,741 - ResourceExtractor - INFO - Saved image: selection-mod-random.png
+2025-01-18 04:28:34,743 - ResourceExtractor - INFO - Saved image: editor-button-play.png
+2025-01-18 04:28:34,745 - ResourceExtractor - INFO - Saved image: editor-button-stop.png
+2025-01-18 04:28:34,748 - ResourceExtractor - INFO - Saved image: editor-button-test.png
+2025-01-18 04:28:34,750 - ResourceExtractor - INFO - Saved image: editor-button-info.png
+2025-01-18 04:28:34,782 - ResourceExtractor - INFO - Saved image: ranking-SH@2x.png
+2025-01-18 04:28:34,785 - ResourceExtractor - INFO - Saved image: selection-mod-relax2.png
+2025-01-18 04:28:34,788 - ResourceExtractor - INFO - Saved image: selection-mode-over.png
+2025-01-18 04:28:34,789 - ResourceExtractor - INFO - Saved: Exo2.0-Medium.ttf
+2025-01-18 04:28:34,793 - ResourceExtractor - INFO - Saved image: ranking-accuracy.png
+2025-01-18 04:28:34,800 - ResourceExtractor - INFO - Saved image: ranking-title.png
+2025-01-18 04:28:34,801 - ResourceExtractor - INFO - Saved: pause-continue-click.mp3
+2025-01-18 04:28:34,804 - ResourceExtractor - INFO - Saved image: coin@2x.png
+2025-01-18 04:28:34,813 - ResourceExtractor - INFO - Saved image: menu-button-charts-over.png
+2025-01-18 04:28:34,827 - ResourceExtractor - INFO - Saved image: ranking-panel.png
+2025-01-18 04:28:34,828 - ResourceExtractor - INFO - Saved: coins-recharge.mp3
+2025-01-18 04:28:34,833 - ResourceExtractor - INFO - Saved image: ranking-graph.png
+2025-01-18 04:28:34,836 - ResourceExtractor - INFO - Saved image: editor-button-stop@2x.png
+2025-01-18 04:28:34,853 - ResourceExtractor - INFO - Saved image: ranking-dialog-right@2x.png
+2025-01-18 04:28:34,858 - ResourceExtractor - INFO - Saved image: selection-mod-spunout@2x.png
+2025-01-18 04:28:34,874 - ResourceExtractor - INFO - Saved image: menu-button-options@2x.png
+2025-01-18 04:28:34,880 - ResourceExtractor - INFO - Saved image: mode-mania-med@2x.png
+2025-01-18 04:28:34,883 - ResourceExtractor - INFO - Saved image: editor-draw-newcombo-expandable.png
+2025-01-18 04:28:34,884 - ResourceExtractor - INFO - Saved image: emoji-56865@2x.png
+2025-01-18 04:28:34,887 - ResourceExtractor - INFO - Saved image: emoji-56864@2x.png
+2025-01-18 04:28:34,889 - ResourceExtractor - INFO - Saved image: emoji-56869@2x.png
+2025-01-18 04:28:34,891 - ResourceExtractor - INFO - Saved image: emoji-56876@2x.png
+2025-01-18 04:28:34,892 - ResourceExtractor - INFO - Saved image: emoji-56879@2x.png
+2025-01-18 04:28:34,894 - ResourceExtractor - INFO - Saved image: emoji-56877@2x.png
+2025-01-18 04:28:34,896 - ResourceExtractor - INFO - Saved image: emoji-56878@2x.png
+2025-01-18 04:28:34,899 - ResourceExtractor - INFO - Saved image: emoji-56842@2x.png
+2025-01-18 04:28:34,901 - ResourceExtractor - INFO - Saved image: emoji-56847@2x.png
+2025-01-18 04:28:34,903 - ResourceExtractor - INFO - Saved image: emoji-56846@2x.png
+2025-01-18 04:28:34,905 - ResourceExtractor - INFO - Saved image: emoji-56840@2x.png
+2025-01-18 04:28:34,907 - ResourceExtractor - INFO - Saved image: emoji-56845@2x.png
+2025-01-18 04:28:34,909 - ResourceExtractor - INFO - Saved image: emoji-56849@2x.png
+2025-01-18 04:28:34,911 - ResourceExtractor - INFO - Saved image: emoji-56855@2x.png
+2025-01-18 04:28:34,912 - ResourceExtractor - INFO - Saved image: emoji-56854@2x.png
+2025-01-18 04:28:34,915 - ResourceExtractor - INFO - Saved image: emoji-56859@2x.png
+2025-01-18 04:28:34,917 - ResourceExtractor - INFO - Saved image: emoji-56835@2x.png
+2025-01-18 04:28:34,919 - ResourceExtractor - INFO - Saved image: emoji-56832@2x.png
+2025-01-18 04:28:34,920 - ResourceExtractor - INFO - Saved image: emoji-56838@2x.png
+2025-01-18 04:28:34,924 - ResourceExtractor - INFO - Saved image: selection-options.png
+2025-01-18 04:28:34,927 - ResourceExtractor - INFO - Saved image: selection-mod-mirror.png
+2025-01-18 04:28:34,928 - ResourceExtractor - INFO - Saved: menu-multiplayer-click.mp3
+2025-01-18 04:28:34,935 - ResourceExtractor - INFO - Saved image: menu-button-charts.png
+2025-01-18 04:28:34,935 - ResourceExtractor - INFO - Saved: Exo2.0-Italic.ttf
+2025-01-18 04:28:34,940 - ResourceExtractor - INFO - Saved image: selection-latestranked.png
+2025-01-18 04:28:34,944 - ResourceExtractor - INFO - Saved image: editor-sound-clap@2x.png
+2025-01-18 04:28:34,951 - ResourceExtractor - INFO - Saved image: menu-button-exit-over.png
+2025-01-18 04:28:34,956 - ResourceExtractor - INFO - Saved image: menu-button-background.png
+2025-01-18 04:28:34,963 - ResourceExtractor - INFO - Saved image: ranking-accuracy@2x.png
+2025-01-18 04:28:34,968 - ResourceExtractor - INFO - Saved image: mode-fruits.png
+2025-01-18 04:28:34,971 - ResourceExtractor - INFO - Saved image: overlay-half@2x.png
+2025-01-18 04:28:34,975 - ResourceExtractor - INFO - Saved image: inputoverlay-background@2x.png
+2025-01-18 04:28:34,979 - ResourceExtractor - INFO - Saved image: editor-sound-whistle@2x.png
+2025-01-18 04:28:34,981 - ResourceExtractor - INFO - Saved image: emoji-56444@2x.png
+2025-01-18 04:28:34,984 - ResourceExtractor - INFO - Saved image: mode-osu-small@2x.png
+2025-01-18 04:28:34,991 - ResourceExtractor - INFO - Saved image: selection-notsubmitted@2x.png
+2025-01-18 04:28:34,994 - ResourceExtractor - INFO - Saved image: fpss-slash@2x.png
+2025-01-18 04:28:34,995 - ResourceExtractor - INFO - Saved: check-off.mp3
+2025-01-18 04:28:35,002 - ResourceExtractor - INFO - Saved image: menu-button-back-over.png
+2025-01-18 04:28:35,006 - ResourceExtractor - INFO - Saved image: fps-dot@2x.png
+2025-01-18 04:28:35,009 - ResourceExtractor - INFO - Saved image: overlay-options.png
+2025-01-18 04:28:35,012 - ResourceExtractor - INFO - Saved image: selection-mod-key4.png
+2025-01-18 04:28:35,015 - ResourceExtractor - INFO - Saved image: selection-mod-key5.png
+2025-01-18 04:28:35,019 - ResourceExtractor - INFO - Saved image: selection-mod-key6.png
+2025-01-18 04:28:35,022 - ResourceExtractor - INFO - Saved image: selection-mod-key7.png
+2025-01-18 04:28:35,025 - ResourceExtractor - INFO - Saved image: selection-mod-key1.png
+2025-01-18 04:28:35,028 - ResourceExtractor - INFO - Saved image: selection-mod-key2.png
+2025-01-18 04:28:35,031 - ResourceExtractor - INFO - Saved image: selection-mod-key3.png
+2025-01-18 04:28:35,033 - ResourceExtractor - INFO - Saved image: selection-mod-key8.png
+2025-01-18 04:28:35,036 - ResourceExtractor - INFO - Saved image: selection-mod-key9.png
+2025-01-18 04:28:35,039 - ResourceExtractor - INFO - Saved image: selection-mod-easy.png
+2025-01-18 04:28:35,055 - ResourceExtractor - INFO - Saved image: triangle@2x.png
+2025-01-18 04:28:35,079 - ResourceExtractor - INFO - Saved image: worldmap.png
+2025-01-18 04:28:35,083 - ResourceExtractor - INFO - Saved image: scoreentry-percent@2x.png
+2025-01-18 04:28:35,086 - ResourceExtractor - INFO - Saved image: fps-box@2x.png
+2025-01-18 04:28:35,088 - ResourceExtractor - INFO - Saved image: editor-menu-bg-bottom@2x.png
+2025-01-18 04:28:35,099 - ResourceExtractor - INFO - Saved image: epilepsy.png
+2025-01-18 04:28:35,102 - ResourceExtractor - INFO - Saved image: emoji-56397@2x.png
+2025-01-18 04:28:35,105 - ResourceExtractor - INFO - Saved image: emoji-56398@2x.png
+2025-01-18 04:28:35,115 - ResourceExtractor - INFO - Saved image: menu-button-options.png
+2025-01-18 04:28:35,116 - ResourceExtractor - INFO - Saved: Exo2.0-ExtraLight.ttf
+2025-01-18 04:28:35,119 - ResourceExtractor - INFO - Saved image: selection-mod-target.png
+2025-01-18 04:28:35,139 - ResourceExtractor - INFO - Saved image: menu-button-edit-over@2x.png
+2025-01-18 04:28:35,157 - ResourceExtractor - INFO - Saved image: mode-mania@2x.png
+2025-01-18 04:28:35,170 - ResourceExtractor - INFO - Saved image: menu-osudirect-over@2x.png
+2025-01-18 04:28:35,173 - ResourceExtractor - INFO - Saved image: selection-approved@2x.png
+2025-01-18 04:28:35,175 - ResourceExtractor - INFO - Saved image: opaque-white@2x.png
+2025-01-18 04:28:35,177 - ResourceExtractor - INFO - Saved: menu-edit-click.mp3
+2025-01-18 04:28:35,196 - ResourceExtractor - INFO - Saved image: mode-fruits@2x.png
+2025-01-18 04:28:35,204 - ResourceExtractor - INFO - Saved image: menu-button-multiplayer-over.png
+2025-01-18 04:28:35,206 - ResourceExtractor - INFO - Saved image: overlay-ticker2.png
+2025-01-18 04:28:35,211 - ResourceExtractor - INFO - Saved image: editor-sound-finish@2x.png
+2025-01-18 04:28:35,214 - ResourceExtractor - INFO - Saved image: lobby-boot@2x.png
+2025-01-18 04:28:35,229 - ResourceExtractor - INFO - Saved image: pause-continue@2x.png
+2025-01-18 04:28:35,230 - ResourceExtractor - INFO - Saved: FontAwesome.ttf
+2025-01-18 04:28:35,233 - ResourceExtractor - INFO - Saved image: ranking-XH-small@2x.png
+2025-01-18 04:28:35,239 - ResourceExtractor - INFO - Saved image: user-bg@2x.png
+2025-01-18 04:28:35,241 - ResourceExtractor - INFO - Saved image: fpss-slash.png
+2025-01-18 04:28:35,244 - ResourceExtractor - INFO - Saved image: fpss-hz@2x.png
+2025-01-18 04:28:35,246 - ResourceExtractor - INFO - Saved image: overlay-1x.png
+2025-01-18 04:28:35,248 - ResourceExtractor - INFO - Saved image: overlay-2x.png
+2025-01-18 04:28:35,252 - ResourceExtractor - INFO - Saved image: selection-norecords.png
+2025-01-18 04:28:35,255 - ResourceExtractor - INFO - Saved image: rank-refresh@2x.png
+2025-01-18 04:28:35,260 - ResourceExtractor - INFO - Saved image: selection-mod-random@2x.png
+2025-01-18 04:28:35,264 - ResourceExtractor - INFO - Saved image: editor-draw-spinner.png
+2025-01-18 04:28:35,269 - ResourceExtractor - INFO - Saved image: selection-notsubmitted.png
+2025-01-18 04:28:35,291 - ResourceExtractor - INFO - Saved image: unpause@2x.png
+2025-01-18 04:28:35,297 - ResourceExtractor - INFO - Saved image: selection-mod-hidden@2x.png
+2025-01-18 04:28:35,302 - ResourceExtractor - INFO - Saved image: volume-circle-bg@2x.png
+2025-01-18 04:28:35,305 - ResourceExtractor - INFO - Saved image: back-button-layer.png
+2025-01-18 04:28:35,309 - ResourceExtractor - INFO - Saved image: selection-mode@2x.png
+2025-01-18 04:28:35,314 - ResourceExtractor - INFO - Saved image: selection-mods@2x.png
+2025-01-18 04:28:35,318 - ResourceExtractor - INFO - Saved image: beatmapimport-spinner.png
+2025-01-18 04:28:35,321 - ResourceExtractor - INFO - Saved image: selection-mod-perfect.png
+2025-01-18 04:28:35,321 - ResourceExtractor - INFO - Saved: key-movement.mp3
+2025-01-18 04:28:35,325 - ResourceExtractor - INFO - Saved image: rank-forum.png
+2025-01-18 04:28:35,331 - ResourceExtractor - INFO - Saved image: selection-mod-fadein@2x.png
+2025-01-18 04:28:35,334 - ResourceExtractor - INFO - Saved image: selection-mod-suddendeath.png
+2025-01-18 04:28:35,342 - ResourceExtractor - INFO - Saved image: ranking-maxcombo@2x.png
+2025-01-18 04:28:35,350 - ResourceExtractor - INFO - Saved image: topmenu-bg@2x.png
+2025-01-18 04:28:35,353 - ResourceExtractor - INFO - Saved image: songselect-bottom.png
+2025-01-18 04:28:35,355 - ResourceExtractor - INFO - Saved image: selection-tab-close@2x.png
+2025-01-18 04:28:35,360 - ResourceExtractor - INFO - Saved image: selection-mods-over.png
+2025-01-18 04:28:35,368 - ResourceExtractor - INFO - Saved image: menu-np@2x.png
+2025-01-18 04:28:35,372 - ResourceExtractor - INFO - Saved image: rank-online@2x.png
+2025-01-18 04:28:35,377 - ResourceExtractor - INFO - Saved image: editor-draw-beatsnap@2x.png
+2025-01-18 04:28:35,379 - ResourceExtractor - INFO - Saved image: masking-border@2x.png
+2025-01-18 04:28:35,382 - ResourceExtractor - INFO - Saved image: menu-flash.png
+2025-01-18 04:28:35,383 - ResourceExtractor - INFO - Saved: metronomehigh.wav
+2025-01-18 04:28:35,389 - ResourceExtractor - INFO - Saved image: selection-mod-target@2x.png
+2025-01-18 04:28:35,947 - ResourceExtractor - INFO - Saved image: menu-background-1@2x.png
+2025-01-18 04:28:36,509 - ResourceExtractor - INFO - Saved image: menu-background-4@2x.png
+2025-01-18 04:28:37,125 - ResourceExtractor - INFO - Saved image: menu-background-5@2x.png
+2025-01-18 04:28:37,711 - ResourceExtractor - INFO - Saved image: menu-background-2@2x.png
+2025-01-18 04:28:38,249 - ResourceExtractor - INFO - Saved image: menu-background-3@2x.png
+2025-01-18 04:28:38,817 - ResourceExtractor - INFO - Saved image: menu-background-6@2x.png
+2025-01-18 04:28:39,360 - ResourceExtractor - INFO - Saved image: menu-background-7@2x.png
+2025-01-18 04:28:39,364 - ResourceExtractor - INFO - Saved image: selection-tab-add@2x.png
+2025-01-18 04:28:39,365 - ResourceExtractor - INFO - Saved: sh_Particle_vs.vert
+2025-01-18 04:28:39,368 - ResourceExtractor - INFO - Saved image: notification.png
+2025-01-18 04:28:39,368 - ResourceExtractor - INFO - Saved: sh_Colour_vs.vert
+2025-01-18 04:28:39,369 - ResourceExtractor - INFO - Saved: sh_Colour_fs.frag
+2025-01-18 04:28:39,369 - ResourceExtractor - INFO - Saved: Exo2.0-SemiBold.ttf
+2025-01-18 04:28:39,369 - ResourceExtractor - INFO - Saved: key-press-4.mp3
+2025-01-18 04:28:39,370 - ResourceExtractor - INFO - Saved: key-press-1.mp3
+2025-01-18 04:28:39,371 - ResourceExtractor - INFO - Saved: key-press-3.mp3
+2025-01-18 04:28:39,371 - ResourceExtractor - INFO - Saved: key-press-2.mp3
+2025-01-18 04:28:39,372 - ResourceExtractor - INFO - Saved: achoo.wav
+2025-01-18 04:28:39,374 - ResourceExtractor - INFO - Saved image: fps-9.png
+2025-01-18 04:28:39,375 - ResourceExtractor - INFO - Saved image: fps-8.png
+2025-01-18 04:28:39,377 - ResourceExtractor - INFO - Saved image: fps-5.png
+2025-01-18 04:28:39,379 - ResourceExtractor - INFO - Saved image: fps-4.png
+2025-01-18 04:28:39,381 - ResourceExtractor - INFO - Saved image: fps-7.png
+2025-01-18 04:28:39,383 - ResourceExtractor - INFO - Saved image: fps-6.png
+2025-01-18 04:28:39,385 - ResourceExtractor - INFO - Saved image: fps-1.png
+2025-01-18 04:28:39,387 - ResourceExtractor - INFO - Saved image: fps-0.png
+2025-01-18 04:28:39,389 - ResourceExtractor - INFO - Saved image: fps-3.png
+2025-01-18 04:28:39,390 - ResourceExtractor - INFO - Saved image: fps-2.png
+2025-01-18 04:28:39,392 - ResourceExtractor - INFO - Saved image: coins.png
+2025-01-18 04:28:39,396 - ResourceExtractor - INFO - Saved image: editor-draw-lock@2x.png
+2025-01-18 04:28:39,402 - ResourceExtractor - INFO - Saved image: ranking-dialog-right.png
+2025-01-18 04:28:39,407 - ResourceExtractor - INFO - Saved image: selection-mod-perfect@2x.png
+2025-01-18 04:28:39,408 - ResourceExtractor - INFO - Saved: seeya.mp3
+2025-01-18 04:28:39,415 - ResourceExtractor - INFO - Saved image: beatmapimport-spinner@2x.png
+2025-01-18 04:28:39,418 - ResourceExtractor - INFO - Saved image: inputoverlay-key@2x.png
+2025-01-18 04:28:39,419 - ResourceExtractor - INFO - Saved: Aller.ttf
+2025-01-18 04:28:39,420 - ResourceExtractor - INFO - Saved: key-caps.mp3
+2025-01-18 04:28:39,423 - ResourceExtractor - INFO - Saved image: selection-unknown.png
+2025-01-18 04:28:39,439 - ResourceExtractor - INFO - Saved image: menu-button-multiplayer-over@2x.png
+2025-01-18 04:28:39,444 - ResourceExtractor - INFO - Saved image: selection-mod-halftime@2x.png
+2025-01-18 04:28:39,449 - ResourceExtractor - INFO - Saved image: selection-mod-autoplay@2x.png
+2025-01-18 04:28:39,476 - ResourceExtractor - INFO - Saved image: beatmapimport-top@2x.png
+2025-01-18 04:28:39,479 - ResourceExtractor - INFO - Saved image: rank-offline@2x.png
+2025-01-18 04:28:39,501 - ResourceExtractor - INFO - Saved image: medal-disc-spin@2x.png
+2025-01-18 04:28:39,553 - ResourceExtractor - INFO - Saved image: menu-osu-shockwave@2x.png
+2025-01-18 04:28:39,556 - ResourceExtractor - INFO - Saved image: editor-draw-distsnap.png
+2025-01-18 04:28:39,642 - ResourceExtractor - INFO - Saved image: menu-background.png
+2025-01-18 04:28:39,645 - ResourceExtractor - INFO - Saved image: lobby-lock@2x.png
+2025-01-18 04:28:39,646 - ResourceExtractor - INFO - Saved: sh_Texture2D_vs.vert
+2025-01-18 04:28:39,646 - ResourceExtractor - INFO - Saved: sh_Texture3D_vs.vert
+2025-01-18 04:28:39,659 - ResourceExtractor - INFO - Saved image: options-offset-tick@2x.png
+2025-01-18 04:28:39,667 - ResourceExtractor - INFO - Saved image: menu-osudirect@2x.png
+2025-01-18 04:28:39,672 - ResourceExtractor - INFO - Saved image: selection-mod-key6@2x.png
+2025-01-18 04:28:39,676 - ResourceExtractor - INFO - Saved image: selection-mod-key7@2x.png
+2025-01-18 04:28:39,680 - ResourceExtractor - INFO - Saved image: selection-mod-key4@2x.png
+2025-01-18 04:28:39,684 - ResourceExtractor - INFO - Saved image: selection-mod-key5@2x.png
+2025-01-18 04:28:39,688 - ResourceExtractor - INFO - Saved image: selection-mod-key2@2x.png
+2025-01-18 04:28:39,692 - ResourceExtractor - INFO - Saved image: selection-mod-key3@2x.png
+2025-01-18 04:28:39,695 - ResourceExtractor - INFO - Saved image: selection-mod-key1@2x.png
+2025-01-18 04:28:39,697 - ResourceExtractor - INFO - Saved image: editor-rate-75@2x.png
+2025-01-18 04:28:39,702 - ResourceExtractor - INFO - Saved image: selection-mod-key8@2x.png
+2025-01-18 04:28:39,707 - ResourceExtractor - INFO - Saved image: selection-mod-key9@2x.png
+2025-01-18 04:28:39,709 - ResourceExtractor - INFO - Saved image: editor-rate-25@2x.png
+2025-01-18 04:28:39,712 - ResourceExtractor - INFO - Saved image: rank-next@2x.png
+2025-01-18 04:28:39,715 - ResourceExtractor - INFO - Saved image: editor-rate-50@2x.png
+2025-01-18 04:28:39,717 - ResourceExtractor - INFO - Saved image: selection-mod-keycoop.png
+2025-01-18 04:28:39,720 - ResourceExtractor - INFO - Saved image: editor-kiai.png
+2025-01-18 04:28:39,724 - ResourceExtractor - INFO - Saved image: selection-mod-keycoop@2x.png
+2025-01-18 04:28:39,731 - ResourceExtractor - INFO - Saved image: menu-button-freeplay-over.png
+2025-01-18 04:28:39,734 - ResourceExtractor - INFO - Saved image: button-left.png
+2025-01-18 04:28:39,739 - ResourceExtractor - INFO - Saved image: selection-mod-mirror@2x.png
+2025-01-18 04:28:39,739 - ResourceExtractor - INFO - Saved: match-notready.wav
+2025-01-18 04:28:39,742 - ResourceExtractor - INFO - Saved image: selection-question.png
+2025-01-18 04:28:39,745 - ResourceExtractor - INFO - Saved image: editor-rate-bg@2x.png
+2025-01-18 04:28:39,746 - ResourceExtractor - INFO - Saved image: editor-rate-arrow.png
+2025-01-18 04:28:39,749 - ResourceExtractor - INFO - Saved image: user-border.png
+2025-01-18 04:28:39,757 - ResourceExtractor - INFO - Saved image: medal-disc-spin.png
+2025-01-18 04:28:39,760 - ResourceExtractor - INFO - Saved image: selection-mod-scorev2@2x.png
+2025-01-18 04:28:39,785 - ResourceExtractor - INFO - Saved image: volume-background-gradient@2x.png
+2025-01-18 04:28:39,791 - ResourceExtractor - INFO - Saved image: editor-metronome-bg.png
+2025-01-18 04:28:39,793 - ResourceExtractor - INFO - Saved image: editor-button-rewind.png
+2025-01-18 04:28:39,801 - ResourceExtractor - INFO - Saved image: volume-circle-bg-max@2x.png
+2025-01-18 04:28:39,803 - ResourceExtractor - INFO - Saved image: scoreentry-comma@2x.png
+2025-01-18 04:28:39,817 - ResourceExtractor - INFO - Saved image: dontmulti@2x.png
+2025-01-18 04:28:39,820 - ResourceExtractor - INFO - Saved image: editor-beat-selector-buttonright.png
+2025-01-18 04:28:39,823 - ResourceExtractor - INFO - Saved image: editor-timing-manual.png
+2025-01-18 04:28:39,824 - ResourceExtractor - INFO - Saved: heartbeat.mp3
+2025-01-18 04:28:39,831 - ResourceExtractor - INFO - Saved image: searching.png
+2025-01-18 04:28:39,844 - ResourceExtractor - INFO - Saved image: ranking-perfect.png
+2025-01-18 04:28:39,847 - ResourceExtractor - INFO - Saved image: rank-offline.png
+2025-01-18 04:28:39,848 - ResourceExtractor - INFO - Saved image: editor-timeline-plus@2x.png
+2025-01-18 04:28:39,858 - ResourceExtractor - INFO - Saved image: featured@2x.png
+2025-01-18 04:28:39,859 - ResourceExtractor - INFO - Saved: Exo2.0-ExtraLightItalic.ttf
+2025-01-18 04:28:39,862 - ResourceExtractor - INFO - Saved image: editor-beat-selector-back.png
+2025-01-18 04:28:39,863 - ResourceExtractor - INFO - Saved image: selection-tab-close.png
+2025-01-18 04:28:39,866 - ResourceExtractor - INFO - Saved image: ranking-A-small.png
+2025-01-18 04:28:39,869 - ResourceExtractor - INFO - Saved image: menu-connection.png
+2025-01-18 04:28:39,879 - ResourceExtractor - INFO - Saved image: menu-flash@2x.png
+2025-01-18 04:28:39,883 - ResourceExtractor - INFO - Saved image: lobby-unlock@2x.png
+2025-01-18 04:28:39,889 - ResourceExtractor - INFO - Saved image: selection-options@2x.png
+2025-01-18 04:28:39,892 - ResourceExtractor - INFO - Saved image: lobby-unlock.png
+2025-01-18 04:28:39,894 - ResourceExtractor - INFO - Saved image: selection-loved@2x.png
+2025-01-18 04:28:39,897 - ResourceExtractor - INFO - Saved image: editor-draw-hold@2x.png
+2025-01-18 04:28:39,903 - ResourceExtractor - INFO - Saved image: mode-osu-med@2x.png
+2025-01-18 04:28:39,905 - ResourceExtractor - INFO - Saved image: topmenu-selection@2x.png
+2025-01-18 04:28:39,907 - ResourceExtractor - INFO - Saved image: editor-button-ff.png
+2025-01-18 04:28:39,909 - ResourceExtractor - INFO - Saved image: multi-skipped.png
+2025-01-18 04:28:39,913 - ResourceExtractor - INFO - Saved image: triangle.png
+2025-01-18 04:28:39,915 - ResourceExtractor - INFO - Saved image: overlay-hidemode@2x.png
+2025-01-18 04:28:39,916 - ResourceExtractor - INFO - Saved: pause-loop.mp3
+2025-01-18 04:28:39,922 - ResourceExtractor - INFO - Saved image: pause-back.png
+2025-01-18 04:28:39,923 - ResourceExtractor - INFO - Saved: sh_Texture_fs.frag
+2025-01-18 04:28:39,927 - ResourceExtractor - INFO - Saved image: menu-subscriber@2x.png
+2025-01-18 04:28:39,927 - ResourceExtractor - INFO - Saved: match-confirm.wav
+2025-01-18 04:28:39,931 - ResourceExtractor - INFO - Saved image: editor-draw-distsnap@2x.png
+2025-01-18 04:28:39,934 - ResourceExtractor - INFO - Saved image: selection-question@2x.png
+2025-01-18 04:28:39,937 - ResourceExtractor - INFO - Saved image: editor-draw-normal.png
+2025-01-18 04:28:39,951 - ResourceExtractor - INFO - Saved image: menu-button-charts@2x.png
+2025-01-18 04:28:39,967 - ResourceExtractor - INFO - Saved image: menu-osu-shockwave.png
+2025-01-18 04:28:39,970 - ResourceExtractor - INFO - Saved image: button-right@2x.png
+2025-01-18 04:28:39,972 - ResourceExtractor - INFO - Saved image: emoji-56865.png
+2025-01-18 04:28:39,974 - ResourceExtractor - INFO - Saved image: emoji-56864.png
+2025-01-18 04:28:39,976 - ResourceExtractor - INFO - Saved image: emoji-56869.png
+2025-01-18 04:28:39,978 - ResourceExtractor - INFO - Saved image: emoji-56876.png
+2025-01-18 04:28:39,979 - ResourceExtractor - INFO - Saved image: emoji-56877.png
+2025-01-18 04:28:39,981 - ResourceExtractor - INFO - Saved image: emoji-56878.png
+2025-01-18 04:28:39,984 - ResourceExtractor - INFO - Saved image: emoji-56879.png
+2025-01-18 04:28:39,986 - ResourceExtractor - INFO - Saved image: emoji-56842.png
+2025-01-18 04:28:39,988 - ResourceExtractor - INFO - Saved image: emoji-56840.png
+2025-01-18 04:28:39,990 - ResourceExtractor - INFO - Saved image: emoji-56847.png
+2025-01-18 04:28:39,991 - ResourceExtractor - INFO - Saved image: emoji-56846.png
+2025-01-18 04:28:39,993 - ResourceExtractor - INFO - Saved image: emoji-56845.png
+2025-01-18 04:28:39,996 - ResourceExtractor - INFO - Saved image: emoji-56849.png
+2025-01-18 04:28:39,998 - ResourceExtractor - INFO - Saved image: emoji-56854.png
+2025-01-18 04:28:40,000 - ResourceExtractor - INFO - Saved image: emoji-56855.png
+2025-01-18 04:28:40,001 - ResourceExtractor - INFO - Saved image: emoji-56859.png
+2025-01-18 04:28:40,003 - ResourceExtractor - INFO - Saved image: emoji-56835.png
+2025-01-18 04:28:40,004 - ResourceExtractor - INFO - Saved image: emoji-56832.png
+2025-01-18 04:28:40,007 - ResourceExtractor - INFO - Saved image: emoji-56838.png
+2025-01-18 04:28:40,008 - ResourceExtractor - INFO - Saved image: emoji-56444.png
+2025-01-18 04:28:40,010 - ResourceExtractor - INFO - Saved image: emoji-56397.png
+2025-01-18 04:28:40,012 - ResourceExtractor - INFO - Saved image: emoji-56398.png
+2025-01-18 04:28:40,017 - ResourceExtractor - INFO - Saved image: menu-button-edit.png
+2025-01-18 04:28:40,023 - ResourceExtractor - INFO - Saved image: menu-button-exit.png
+2025-01-18 04:28:40,030 - ResourceExtractor - INFO - Saved image: menu-button-back.png
+2025-01-18 04:28:40,036 - ResourceExtractor - INFO - Saved image: menu-button-play.png
+2025-01-18 04:28:40,037 - ResourceExtractor - INFO - Saved: key-confirm.mp3
+2025-01-18 04:28:40,039 - ResourceExtractor - INFO - Saved image: editor-button-pause.png
+2025-01-18 04:28:40,040 - ResourceExtractor - INFO - Saved image: editor-beat-selector-buttonleft.png
+2025-01-18 04:28:40,048 - ResourceExtractor - INFO - Saved image: selection-notranked@2x.png
+2025-01-18 04:28:40,052 - ResourceExtractor - INFO - Saved image: editor-button-ff@2x.png
+2025-01-18 04:28:40,054 - ResourceExtractor - INFO - Saved image: editor-timeline-reset@2x.png
+2025-01-18 04:28:40,057 - ResourceExtractor - INFO - Saved image: overlay-discussion2.png
+2025-01-18 04:28:40,060 - ResourceExtractor - INFO - Saved image: lobby-crown@2x.png
+2025-01-18 04:28:40,066 - ResourceExtractor - INFO - Saved image: menu-button-edit-over.png
+2025-01-18 04:28:40,069 - ResourceExtractor - INFO - Saved image: overlay-collections@2x.png
+2025-01-18 04:28:40,071 - ResourceExtractor - INFO - Saved image: seekbar-over@2x.png
+2025-01-18 04:28:40,080 - ResourceExtractor - INFO - Saved image: beatmapimport-top.png
+2025-01-18 04:28:40,083 - ResourceExtractor - INFO - Saved image: selection-mod-doubletime.png
+2025-01-18 04:28:40,085 - ResourceExtractor - INFO - Saved image: fps-ms@2x.png
+2025-01-18 04:28:40,088 - ResourceExtractor - INFO - Saved image: selection-mod-flashlight.png
+2025-01-18 04:28:40,090 - ResourceExtractor - INFO - Saved image: editor-draw-newcombo-expand@2x.png
+2025-01-18 04:28:40,092 - ResourceExtractor - INFO - Saved image: fps-comma.png
+2025-01-18 04:28:40,094 - ResourceExtractor - INFO - Saved image: fpss-fps@2x.png
+2025-01-18 04:28:40,094 - ResourceExtractor - INFO - Saved: sh_CircularProgressBar_fs.frag
+2025-01-18 04:28:40,097 - ResourceExtractor - INFO - Saved image: overlay-ticker2@2x.png
+2025-01-18 04:28:40,103 - ResourceExtractor - INFO - Saved image: pause-continue.png
+2025-01-18 04:28:40,105 - ResourceExtractor - INFO - Saved image: fps-comma@2x.png
+2025-01-18 04:28:40,107 - ResourceExtractor - INFO - Saved image: editor-beat-selector-buttonright@2x.png
+2025-01-18 04:28:40,112 - ResourceExtractor - INFO - Saved image: menu-button-freeplay.png
+2025-01-18 04:28:40,115 - ResourceExtractor - INFO - Saved image: circle-full.png
+2025-01-18 04:28:40,122 - ResourceExtractor - INFO - Saved image: selection-latestranked@2x.png
+2025-01-18 04:28:40,131 - ResourceExtractor - INFO - Saved image: featured-hover@2x.png
+2025-01-18 04:28:40,132 - ResourceExtractor - INFO - Saved: coins-earn.mp3
+2025-01-18 04:28:40,136 - ResourceExtractor - INFO - Saved image: ranking-A-small@2x.png
+2025-01-18 04:28:40,149 - ResourceExtractor - INFO - Saved image: mode-taiko@2x.png
+2025-01-18 04:28:40,156 - ResourceExtractor - INFO - Saved image: editor-timing-manual@2x.png
+2025-01-18 04:28:40,157 - ResourceExtractor - INFO - Saved: select-expand.mp3
+2025-01-18 04:28:40,158 - ResourceExtractor - INFO - Saved: menu-freeplay-click.mp3
+2025-01-18 04:28:40,160 - ResourceExtractor - INFO - Saved image: lobby-avatar.png
+2025-01-18 04:28:40,162 - ResourceExtractor - INFO - Saved image: overlay-discussion.png
+2025-01-18 04:28:40,167 - ResourceExtractor - INFO - Saved image: selection-mod-suddendeath@2x.png
+2025-01-18 04:28:40,172 - ResourceExtractor - INFO - Saved image: menu-np.png
+2025-01-18 04:28:40,172 - ResourceExtractor - INFO - Saved: menuhit.mp3
+2025-01-18 04:28:40,180 - ResourceExtractor - INFO - Saved image: menu-button-play-over.png
+2025-01-18 04:28:40,192 - ResourceExtractor - INFO - Saved image: pause-retry@2x.png
+2025-01-18 04:28:40,203 - ResourceExtractor - INFO - Saved image: ranking-graph@2x.png
+2025-01-18 04:28:40,207 - ResourceExtractor - INFO - Saved image: ranking-X-small@2x.png
+2025-01-18 04:28:40,209 - ResourceExtractor - INFO - Saved image: editor-menu-bg-top@2x.png
+2025-01-18 04:28:40,217 - ResourceExtractor - INFO - Saved image: selection-update@2x.png
+2025-01-18 04:28:40,363 - ResourceExtractor - INFO - Saved image: menu-background-1.png
+2025-01-18 04:28:40,513 - ResourceExtractor - INFO - Saved image: menu-background-2.png
+2025-01-18 04:28:40,639 - ResourceExtractor - INFO - Saved image: menu-background-3.png
+2025-01-18 04:28:40,780 - ResourceExtractor - INFO - Saved image: menu-background-4.png
+2025-01-18 04:28:40,924 - ResourceExtractor - INFO - Saved image: menu-background-5.png
+2025-01-18 04:28:41,079 - ResourceExtractor - INFO - Saved image: menu-background-6.png
+2025-01-18 04:28:41,217 - ResourceExtractor - INFO - Saved image: menu-background-7.png
+2025-01-18 04:28:41,219 - ResourceExtractor - INFO - Saved: Exo2.0-ExtraBoldItalic.ttf
+2025-01-18 04:28:41,222 - ResourceExtractor - INFO - Saved image: overlay-1x@2x.png
+2025-01-18 04:28:41,225 - ResourceExtractor - INFO - Saved image: ranking-D-small.png
+2025-01-18 04:28:41,228 - ResourceExtractor - INFO - Saved image: overlay-2x@2x.png
+2025-01-18 04:28:41,230 - ResourceExtractor - INFO - Saved image: editor-rate-100@2x.png
+2025-01-18 04:28:41,231 - ResourceExtractor - INFO - Saved: sh_Bloom_fs.frag
+2025-01-18 04:28:41,234 - ResourceExtractor - INFO - Saved image: editor-draw-select.png
+2025-01-18 04:28:41,238 - ResourceExtractor - INFO - Saved image: back-button-layer@2x.png
+2025-01-18 04:28:41,240 - ResourceExtractor - INFO - Saved image: editor-draw-slider.png
+2025-01-18 04:28:41,250 - ResourceExtractor - INFO - Saved image: medal-glow@2x.png
+2025-01-18 04:28:41,253 - ResourceExtractor - INFO - Saved image: rank-online.png
+2025-01-18 04:28:41,255 - ResourceExtractor - INFO - Saved image: selection-approved.png
+2025-01-18 04:28:41,258 - ResourceExtractor - INFO - Saved image: lazer-stable-shortcuts.png
+2025-01-18 04:28:41,263 - ResourceExtractor - INFO - Saved image: selection-random-over@2x.png
+2025-01-18 04:28:41,272 - ResourceExtractor - INFO - Saved image: ranking-winner@2x.png
+2025-01-18 04:28:41,275 - ResourceExtractor - INFO - Saved image: menu-vis.png
+2025-01-18 04:28:41,294 - ResourceExtractor - INFO - Saved image: menu-osu.png
+2025-01-18 04:28:41,296 - ResourceExtractor - INFO - Saved image: menu-bat.png
+2025-01-18 04:28:41,297 - ResourceExtractor - INFO - Saved: menuback.mp3
+2025-01-18 04:28:41,299 - ResourceExtractor - INFO - Saved image: editor-button-info@2x.png
+2025-01-18 04:28:41,301 - ResourceExtractor - INFO - Saved image: fpss-8.png
+2025-01-18 04:28:41,303 - ResourceExtractor - INFO - Saved image: fpss-9.png
+2025-01-18 04:28:41,305 - ResourceExtractor - INFO - Saved image: fpss-6.png
+2025-01-18 04:28:41,307 - ResourceExtractor - INFO - Saved image: fpss-7.png
+2025-01-18 04:28:41,308 - ResourceExtractor - INFO - Saved image: fpss-4.png
+2025-01-18 04:28:41,310 - ResourceExtractor - INFO - Saved image: fpss-5.png
+2025-01-18 04:28:41,311 - ResourceExtractor - INFO - Saved image: fpss-2.png
+2025-01-18 04:28:41,312 - ResourceExtractor - INFO - Saved image: fpss-3.png
+2025-01-18 04:28:41,314 - ResourceExtractor - INFO - Saved image: fpss-0.png
+2025-01-18 04:28:41,316 - ResourceExtractor - INFO - Saved image: fpss-1.png
+2025-01-18 04:28:41,317 - ResourceExtractor - INFO - Saved image: fps-ms.png
+2025-01-18 04:28:41,320 - ResourceExtractor - INFO - Saved image: overlay-options2.png
+2025-01-18 04:28:41,322 - ResourceExtractor - INFO - Saved image: topmenu-selection.png
+2025-01-18 04:28:41,323 - ResourceExtractor - INFO - Saved: match-join.wav
+2025-01-18 04:28:41,328 - ResourceExtractor - INFO - Saved image: mode-taiko-med@2x.png
+2025-01-18 04:28:41,335 - ResourceExtractor - INFO - Saved image: menu-button-multiplayer.png
+2025-01-18 04:28:41,339 - ResourceExtractor - INFO - Saved image: mode-fruits-small.png
+2025-01-18 04:28:41,341 - ResourceExtractor - INFO - Saved image: editor-rate-arrow@2x.png
+2025-01-18 04:28:41,345 - ResourceExtractor - INFO - Saved image: loading-small@2x.png
+2025-01-18 04:28:41,348 - ResourceExtractor - INFO - Saved image: mode-mania-small@2x.png
+2025-01-18 04:28:41,351 - ResourceExtractor - INFO - Saved image: overlay-discussion2@2x.png
+2025-01-18 04:28:41,355 - ResourceExtractor - INFO - Saved image: selection-mod-spunout.png
+2025-01-18 04:28:41,357 - ResourceExtractor - INFO - Saved image: editor-button-jumpto.png
+2025-01-18 04:28:41,359 - ResourceExtractor - INFO - Saved image: mode-mania-small.png
+2025-01-18 04:28:41,362 - ResourceExtractor - INFO - Saved image: editor-draw-beatsnap.png
+2025-01-18 04:28:41,365 - ResourceExtractor - INFO - Saved image: editor-timeline-timinginfo@2x.png
+2025-01-18 04:28:41,368 - ResourceExtractor - INFO - Saved image: selection-random-over.png
+2025-01-18 04:28:41,369 - ResourceExtractor - INFO - Saved: outbound-Regular.ttf
+2025-01-18 04:28:41,369 - ResourceExtractor - INFO - Saved: Exo2.0-BoldItalic.ttf
+2025-01-18 04:28:41,382 - ResourceExtractor - INFO - Saved image: ranking-XH.png
+2025-01-18 04:28:41,394 - ResourceExtractor - INFO - Saved image: ranking-SH.png
+2025-01-18 04:28:41,401 - ResourceExtractor - INFO - Saved image: selection-unknown@2x.png
+2025-01-18 04:28:41,404 - ResourceExtractor - INFO - Saved image: lobby-avatar@2x.png
+2025-01-18 04:28:41,445 - ResourceExtractor - INFO - Saved image: ranking-X@2x.png
+2025-01-18 04:28:41,482 - ResourceExtractor - INFO - Saved image: ranking-S@2x.png
+2025-01-18 04:28:41,519 - ResourceExtractor - INFO - Saved image: ranking-D@2x.png
+2025-01-18 04:28:41,556 - ResourceExtractor - INFO - Saved image: ranking-A@2x.png
+2025-01-18 04:28:41,593 - ResourceExtractor - INFO - Saved image: ranking-B@2x.png
+2025-01-18 04:28:41,625 - ResourceExtractor - INFO - Saved image: ranking-C@2x.png
+2025-01-18 04:28:41,641 - ResourceExtractor - INFO - Saved image: menu-button-options-over@2x.png
+2025-01-18 04:28:41,646 - ResourceExtractor - INFO - Saved image: ranking-X-small.png
+2025-01-18 04:28:41,649 - ResourceExtractor - INFO - Saved image: mode-taiko-small.png
+2025-01-18 04:28:41,652 - ResourceExtractor - INFO - Saved image: overlay-discussion@2x.png
+2025-01-18 04:28:41,655 - ResourceExtractor - INFO - Saved image: test-build-overlay@2x.png
+2025-01-18 04:28:41,661 - ResourceExtractor - INFO - Saved image: selection-mod-fadeout@2x.png
+2025-01-18 04:28:41,663 - ResourceExtractor - INFO - Saved image: editor-rate-75.png
+2025-01-18 04:28:41,665 - ResourceExtractor - INFO - Saved image: editor-rate-25.png
+2025-01-18 04:28:41,668 - ResourceExtractor - INFO - Saved image: editor-rate-50.png
+2025-01-18 04:28:41,670 - ResourceExtractor - INFO - Saved image: editor-rate-bg.png
+2025-01-18 04:28:41,686 - ResourceExtractor - INFO - Saved image: menu-button-exit-over@2x.png
+2025-01-18 04:28:41,687 - ResourceExtractor - INFO - Saved: menuclick.mp3
+2025-01-18 04:28:41,689 - ResourceExtractor - INFO - Saved: sliderbar.mp3
+2025-01-18 04:28:41,692 - ResourceExtractor - INFO - Saved image: editor-metronome-beat-lighting@2x.png
+2025-01-18 04:28:41,697 - ResourceExtractor - INFO - Saved image: user-border@2x.png
+2025-01-18 04:28:41,703 - ResourceExtractor - INFO - Saved image: selection-mod-doubletime@2x.png
+2025-01-18 04:28:41,705 - ResourceExtractor - INFO - Saved image: overlay-hidemode.png
+2025-01-18 04:28:41,707 - ResourceExtractor - INFO - Saved image: selection-mod-relax.png
+2025-01-18 04:28:41,715 - ResourceExtractor - INFO - Saved image: menu-button-options-over.png
+2025-01-18 04:28:41,719 - ResourceExtractor - INFO - Saved image: mode-mania-med.png
+2025-01-18 04:28:41,722 - ResourceExtractor - INFO - Saved image: ranking-C-small@2x.png
+2025-01-18 04:28:41,741 - ResourceExtractor - INFO - Saved image: menu-button-play-over@2x.png
+2025-01-18 04:28:41,742 - ResourceExtractor - INFO - Saved: applause.mp3
+2025-01-18 04:28:41,745 - ResourceExtractor - INFO - Saved image: loading-small.png
+2025-01-18 04:28:41,747 - ResourceExtractor - INFO - Saved image: editor-menu-bg-bottom.png
+2025-01-18 04:28:41,749 - ResourceExtractor - INFO - Saved image: circle-full@2x.png
+2025-01-18 04:28:41,755 - ResourceExtractor - INFO - Saved image: selection-mod-hardrock@2x.png
+2025-01-18 04:28:41,761 - ResourceExtractor - INFO - Saved image: options-offset-tick.png
+2025-01-18 04:28:41,764 - ResourceExtractor - INFO - Saved image: scoreentry-x.png
+2025-01-18 04:28:41,765 - ResourceExtractor - INFO - Saved image: scoreentry-4.png
+2025-01-18 04:28:41,767 - ResourceExtractor - INFO - Saved image: scoreentry-5.png
+2025-01-18 04:28:41,770 - ResourceExtractor - INFO - Saved image: scoreentry-6.png
+2025-01-18 04:28:41,772 - ResourceExtractor - INFO - Saved image: scoreentry-7.png
+2025-01-18 04:28:41,773 - ResourceExtractor - INFO - Saved image: scoreentry-0.png
+2025-01-18 04:28:41,775 - ResourceExtractor - INFO - Saved image: scoreentry-1.png
+2025-01-18 04:28:41,777 - ResourceExtractor - INFO - Saved image: scoreentry-2.png
+2025-01-18 04:28:41,778 - ResourceExtractor - INFO - Saved image: scoreentry-3.png
+2025-01-18 04:28:41,780 - ResourceExtractor - INFO - Saved image: scoreentry-8.png
+2025-01-18 04:28:41,782 - ResourceExtractor - INFO - Saved image: scoreentry-9.png
+2025-01-18 04:28:41,785 - ResourceExtractor - INFO - Saved image: editor-draw-newcombo@2x.png
+2025-01-18 04:28:41,799 - ResourceExtractor - INFO - Saved image: menu-button-back-over@2x.png
+2025-01-18 04:28:41,803 - ResourceExtractor - INFO - Saved image: editor-draw-select@2x.png
+2025-01-18 04:28:41,806 - ResourceExtractor - INFO - Saved image: menu-subscriber.png
+2025-01-18 04:28:41,807 - ResourceExtractor - INFO - Saved image: fps-dropped.png
+2025-01-18 04:28:41,816 - ResourceExtractor - INFO - Saved image: medal-disc-spin-masked.png
+2025-01-18 04:28:41,820 - ResourceExtractor - INFO - Saved image: ranking-dialog-middle@2x.png
+2025-01-18 04:28:41,823 - ResourceExtractor - INFO - Saved image: editor-timeline-plus.png
+2025-01-18 04:28:41,825 - ResourceExtractor - INFO - Saved image: editor-timeline-left.png
+2025-01-18 04:28:41,840 - ResourceExtractor - INFO - Saved image: menu-button-multiplayer@2x.png
+2025-01-18 04:28:41,841 - ResourceExtractor - INFO - Saved: metronomelow.wav
+2025-01-18 04:28:41,842 - ResourceExtractor - INFO - Saved: welcome.mp3
+2025-01-18 04:28:41,845 - ResourceExtractor - INFO - Saved image: selection-tab-add.png
+2025-01-18 04:28:41,849 - ResourceExtractor - INFO - Saved image: ranking-winner.png
+2025-01-18 04:28:41,852 - ResourceExtractor - INFO - Saved image: circle-empty@2x.png
+2025-01-18 04:28:41,856 - ResourceExtractor - INFO - Saved image: editor-rate-100.png
+2025-01-18 04:28:41,870 - ResourceExtractor - INFO - Saved image: menu-button-back@2x.png
+2025-01-18 04:28:41,873 - ResourceExtractor - INFO - Saved image: editor-button-rewind@2x.png
+2025-01-18 04:28:41,875 - ResourceExtractor - INFO - Saved image: circle-empty.png
+2025-01-18 04:28:41,888 - ResourceExtractor - INFO - Saved image: menu-button-freeplay@2x.png
+2025-01-18 04:28:41,890 - ResourceExtractor - INFO - Saved: whoosh.mp3
+2025-01-18 04:28:41,892 - ResourceExtractor - INFO - Saved image: scoreentry-dot.png
+2025-01-18 04:28:41,895 - ResourceExtractor - INFO - Saved image: fpss-hz.png
+2025-01-18 04:28:41,899 - ResourceExtractor - INFO - Saved image: editor-draw-newcombo-expandable@2x.png
+2025-01-18 04:28:41,903 - ResourceExtractor - INFO - Saved image: coins@2x.png
+2025-01-18 04:28:41,905 - ResourceExtractor - INFO - Saved image: fps-dot.png
+2025-01-18 04:28:41,906 - ResourceExtractor - INFO - Saved image: fps-box.png
+2025-01-18 04:28:41,909 - ResourceExtractor - INFO - Saved image: coins-bg.png
+2025-01-18 04:28:41,909 - ResourceExtractor - INFO - Saved: check-on.mp3
+2025-01-18 04:28:41,914 - ResourceExtractor - INFO - Saved image: selection-random@2x.png
+2025-01-18 04:28:41,917 - ResourceExtractor - INFO - Saved image: coin.png
+2025-01-18 04:28:41,919 - ResourceExtractor - INFO - Saved image: masking-border.png
+2025-01-18 04:28:41,921 - ResourceExtractor - INFO - Saved image: editor-button-pause@2x.png
+2025-01-18 04:28:41,959 - ResourceExtractor - INFO - Saved image: ranking-background-overlay.png
+2025-01-18 04:28:41,962 - ResourceExtractor - INFO - Saved image: editor-timeline-left@2x.png
+2025-01-18 04:28:41,964 - ResourceExtractor - INFO - Saved image: mode-fruits-small@2x.png
+2025-01-18 04:28:41,965 - ResourceExtractor - INFO - Processing DLL: D:\osu!\pthreadGC2.dll
+2025-01-18 04:28:41,967 - ResourceExtractor - WARNING - Could not load as .NET assembly: The module was expected to contain an assembly manifest. (Exception from HRESULT: 0x80131018)
+   at System.Reflection.RuntimeAssembly.nLoadFile(String path, Evidence evidence)
+   at System.Reflection.Assembly.LoadFile(String path)
+2025-01-18 04:28:41,967 - ResourceExtractor - INFO - Resource extraction completed!
+2025-01-18 04:28:42,091 - ResourceExtractor - INFO - Cleanup completed
